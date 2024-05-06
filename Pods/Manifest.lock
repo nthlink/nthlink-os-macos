@@ -1,0 +1,28 @@
+PODS:
+  - Alamofire (5.6.4)
+  - FlatButton (1.2)
+  - lottie-ios (4.2.0)
+  - SwiftyJSON (5.0.1)
+
+DEPENDENCIES:
+  - Alamofire
+  - FlatButton
+  - lottie-ios
+  - SwiftyJSON
+
+SPEC REPOS:
+  trunk:
+    - Alamofire
+    - FlatButton
+    - lottie-ios
+    - SwiftyJSON
+
+SPEC CHECKSUMS:
+  Alamofire: 4e95d97098eacb88856099c4fc79b526a299e48c
+  FlatButton: 9995b972cd520be091f0ba6b215b84cbe7d46fa8
+  lottie-ios: 809ecf2d460ed650a6aed7aa88b2ec45fab4779c
+  SwiftyJSON: 2f33a42c6fbc52764d96f13368585094bfd8aa5e
+
+PODFILE CHECKSUM: c8e3477704af3a3fe0c6979fa1a50656330afaaa
+
+COCOAPODS: 1.12.0

@@ -1,0 +1,45 @@
+/* 
+  Localizable.strings
+  nthLink
+
+  Created by Vaneet Modgill on 13/04/24.
+  
+*/
+
+
+"openNthlinkText" = "Open nthLink";
+"quitNthlinkText" = "Quit nthLink";
+"Home" = "Status";
+"Feedback" = "Feedback";
+"About" = "About";
+"Help" = "Help";
+"RateApp" = "Rate this app";
+"PrivacyPolicy" = "Privacy Policy";
+"Connecting" = "Connecting...";
+"IssueCategory" = "Issue Category";
+"Description" = "Description";
+"Connect" = "Connect";
+"Disconnect" = "Disconnect";
+"Disconnecting" = "Disconnecting...";
+"feedback_submit" = "Submit feedback";
+"feedback_submit_success_message" = "Thanks for helping us improve! We love hearing from you.";
+"about_version" = "Version";
+"about_text" = "<p>We are a group of experienced software and information security engineers who started nthLink in 2016 to support human rights lawyers who needed to obtain restricted information and to express their perspectives. Since then we&rsquo;ve made the service available to the wider public. Our development team are experts in both network security technology and service reliability.</p><p>Our service is free and will remain free thanks to our sponsors and partners. They are:<br>&bull; Open Technology Fund  <br>&bull; Google Jigsaw  <br>&bull; Cure53  <br>&bull; Include Security  <br>&bull; Plaintext Design</p><p>Our development team excels in both the sophistication of censorship circumvention technology and the reliability of the service. With years of experience in this specialty area, we provide the users in targeted geographies simple, safe, and reliable access to otherwise censored information.</p>";
+"issue_categories_1" = "General feedback";
+"issue_categories_2" = "Cannot connect";
+"issue_categories_3" = "Connection speed is slow";
+"issue_categories_4" = "Suggestions";
+"issue_categories_5" = "Other";
+"feedbackErrorSelectType" = "Please select error type";
+"feedbackErrorAddDescription" = "Please input description";
+"somethingWentWrong" = "Something Went Wrong. Please try after some time.";
+"OK" = "OK";
+"feedbackEmailIDLabel" = "Email";
+"feedbackSubtext" = "Your description, email address (if provided), and additional information referred to in the Data Collection Policy will be sent to the nthLink team. Please do not include personal information in your feedback.";
+"privacyPolicyAgreeButton" = "Accept and continue";
+"privacyPolicyLearnMoreButton" = "Learn more about nthLink";
+"homeReadLatestNews" = "Read Latest News";
+
+
+
+

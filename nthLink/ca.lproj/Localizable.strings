@@ -1,0 +1,40 @@
+/* 
+  Localizable.strings
+  nthLink
+
+  Created by Vaneet Modgill on 13/04/24.
+  
+*/
+
+"Open nthLink" = "Obre nthLink";
+"Quit nthLink" = "Tanca nthLink";
+"Home" = "Inici";
+"Feedback" = "Retroalimentació";
+"About" = "Sobre";
+"Help" = "Ajuda";
+"RateApp" = "Valora aquesta app";
+"PrivacyPolicy" = "Política de privacitat";
+"Connecting" = "Connectant...";
+"IssueCategory" = "Categoria de problema";
+"Description" = "Descripció";
+"Connect" = "Connecta";
+"Disconnect" = "Desconnecta";
+"Disconnecting" = "Desconnectant...";
+"feedback_submit" = "Envia la teva opinió";
+"feedback_submit_success_message" = "Gràcies per ajudar-nos a millorar! Ens encanta sentir-te.";
+"about_version" = "Versió";
+"issue_categories_1" = "Retroalimentació general";
+"issue_categories_2" = "No es pot connectar";
+"issue_categories_3" = "La velocitat de connexió és lenta";
+"issue_categories_4" = "Suggeriments";
+"issue_categories_5" = "Altres";
+"feedbackErrorSelectType" = "Si us plau, selecciona el tipus d'error";
+"feedbackErrorAddDescription" = "Si us plau, introdueix la descripció";
+"somethingWentWrong" = "Alguna cosa ha anat malament. Si us plau, prova més tard.";
+"OK" = "D'acord";
+"feedbackEmailIDLabel" = "Correu electrònic";
+"feedbackSubtext" = "La teva descripció, adreça de correu electrònic (si s'ha proporcionat), i informació addicional referida a la Política de Recopilació de Dades seran enviades a l'equip de nthLink. Si us plau, no inclogueu informació personal en la teva retroalimentació.";
+"privacyPolicyAgreeButton" = "Accepta i continua";
+"privacyPolicyLearnMoreButton" = "Coneix més sobre nthLink";
+"homeReadLatestNews" = "Llegeix les últimes notícies";
+"about_text" = "<p>Som un grup d'enginyers de programari i seguretat de la informació amb experiència que van iniciar nthLink l'any 2016 per donar suport als advocats de drets humans que necessitaven obtenir informació restringida i expressar les seves perspectives. Des d'aleshores hem posat el servei a disposició del públic en general. El nostre equip de desenvolupament és expert tant en tecnologia de seguretat de xarxa com en fiabilitat del servei.<br>El nostre servei és gratuït i seguirà sent gratuït gràcies als nostres patrocinadors i socis. Ells són:<br><br>&bull; Open Technology Fund  <br>&bull; Google Jigsaw  <br>&bull; Cure53  <br>&bull; Include Security  <br>&bull; Plaintext Design</p><p>El nostre equip de desenvolupament destaca tant per la sofisticació de la tecnologia d'elusió de la censura com per la fiabilitat del servei. Amb anys d'experiència en aquesta àrea d'especialitat, oferim als usuaris en zones geogràfiques específiques un accés senzill, segur i fiable a la informació d'altra manera.censurada.</p>";

@@ -1,0 +1,40 @@
+/* 
+  Localizable.strings
+  nthLink
+
+  Created by Vaneet Modgill on 13/04/24.
+  
+*/
+
+"Open nthLink" = "Öppna nthLink";
+"Quit nthLink" = "Avsluta nthLink";
+"Home" = "Hem";
+"Feedback" = "Feedback";
+"About" = "Om";
+"Help" = "Hjälp";
+"RateApp" = "Betygsätt denna app";
+"PrivacyPolicy" = "Integritetspolicy";
+"Connecting" = "Ansluter...";
+"IssueCategory" = "Problemkategori";
+"Description" = "Beskrivning";
+"Connect" = "Anslut";
+"Disconnect" = "Koppla från";
+"Disconnecting" = "Kopplar från...";
+"feedback_submit" = "Skicka feedback";
+"feedback_submit_success_message" = "Tack för att du hjälper oss att förbättra! Vi älskar att höra från dig.";
+"about_version" = "Version";
+"issue_categories_1" = "Allmän feedback";
+"issue_categories_2" = "Kan inte ansluta";
+"issue_categories_3" = "Låg anslutningshastighet";
+"issue_categories_4" = "Förslag";
+"issue_categories_5" = "Övrigt";
+"feedbackErrorSelectType" = "Vänligen välj feltyp";
+"feedbackErrorAddDescription" = "Lägg till beskrivning";
+"somethingWentWrong" = "Något gick fel. Försök igen senare.";
+"OK" = "OK";
+"feedbackEmailIDLabel" = "E-post";
+"feedbackSubtext" = "Din beskrivning, e-postadress (om tillhandahållen), och ytterligare information som nämns i Dataskyddspolicyn kommer att skickas till nthLink-teamet. Vänligen inkludera inte personlig information i din feedback.";
+"privacyPolicyAgreeButton" = "Acceptera och fortsätt";
+"privacyPolicyLearnMoreButton" = "Läs mer om nthLink";
+"homeReadLatestNews" = "Läs de senaste nyheterna";
+"about_text" = "<p>Vi är en grupp erfarna mjukvaru- och informationssäkerhetsingenjörer som startade nthLink 2016 för att stödja människorättsadvokater som behövde få begränsad information och för att uttrycka sina perspektiv. Sedan dess har vi gjort tjänsten tillgänglig för en bredare allmänhet. Vårt utvecklingsteam är experter på både nätverkssäkerhetsteknik och servicetillförlitlighet.<br>Vår tjänst är gratis och kommer att förbli gratis tack vare våra sponsorer och partners. Dom är:<br><br>&bull; Open Technology Fund  <br>&bull; Google Jigsaw  <br>&bull; Cure53  <br>&bull; Include Security  <br>&bull; Plaintext Design</p><p>Vårt utvecklingsteam utmärker sig både när det gäller sofistikeringen av teknik för kringgående av censur och tjänstens tillförlitlighet. Med många års erfarenhet inom detta specialområde ger vi användarna i riktade geografier enkel, säker och pålitlig tillgång till annars censurerad information.</p>";

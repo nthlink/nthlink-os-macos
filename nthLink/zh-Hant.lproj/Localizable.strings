@@ -1,0 +1,40 @@
+/* 
+  Localizable.strings
+  nthLink
+
+  Created by Vaneet Modgill on 13/04/24.
+  
+*/
+
+"Open nthLink" = "開啟 nthLink";
+"Quit nthLink" = "退出 nthLink";
+"Home" = "首頁";
+"Feedback" = "反饋";
+"About" = "關於";
+"Help" = "幫助";
+"RateApp" = "評價此應用";
+"PrivacyPolicy" = "隱私政策";
+"Connecting" = "連接中...";
+"IssueCategory" = "問題類別";
+"Description" = "描述";
+"Connect" = "連接";
+"Disconnect" = "斷開連接";
+"Disconnecting" = "正在斷開連接...";
+"feedback_submit" = "提交反饋";
+"feedback_submit_success_message" = "感謝您幫助我們改進！我們很樂意聽到您的意見。";
+"about_version" = "版本";
+"issue_categories_1" = "一般反饋";
+"issue_categories_2" = "無法連接";
+"issue_categories_3" = "連接速度慢";
+"issue_categories_4" = "建議";
+"issue_categories_5" = "其他";
+"feedbackErrorSelectType" = "請選擇錯誤類型";
+"feedbackErrorAddDescription" = "請輸入描述";
+"somethingWentWrong" = "出現問題。請稍後再試。";
+"OK" = "確定";
+"feedbackEmailIDLabel" = "電子郵件";
+"feedbackSubtext" = "您的描述、電子郵件地址（如果提供）以及在數據收集政策中提到的其他信息將發送給 nthLink 團隊。請不要在您的反饋中包含個人信息。";
+"privacyPolicyAgreeButton" = "同意並繼續";
+"privacyPolicyLearnMoreButton" = "了解更多關於 nthLink";
+"homeReadLatestNews" = "閱讀最新消息";
+"about_text" = "<p>我們是一群經驗豐富的軟體和資訊安全工程師，於 2016 年創立了 nthLink，為需要獲取受限資訊並表達觀點的人權律師提供支援。 從那時起，我們就向更廣泛的公眾提供了這項服務。 我們的開發團隊是網路安全技術和服務可靠性方面的專家。<br>我們的服務是免費的，並且由於我們的贊助商和合作夥伴，我們將繼續免費。 他們是：<br><br>&bull; Open Technology Fund  <br>&bull; Google Jigsaw  <br>&bull; Cure53  <br>&bull; Include Security  <br>&bull; Plaintext Design</p><p>我們的開發團隊在審查規避技術的複雜性和服務的可靠性方面均表現出色。 憑藉在這一專業領域的多年經驗，我們為目標地區的用戶提供簡單、安全、可靠的存取方式，以獲取未經審查的資訊。</p>";

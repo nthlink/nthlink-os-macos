@@ -1,0 +1,41 @@
+/* 
+  Localizable.strings
+  nthLink
+
+  Created by Vaneet Modgill on 13/04/24.
+  
+*/
+
+"Open nthLink" = "Buka nthLink";
+"Quit nthLink" = "Keluar nthLink";
+"Home" = "Laman Utama";
+"Feedback" = "Maklum Balas";
+"About" = "Tentang";
+"Help" = "Bantuan";
+"RateApp" = "Beri Nilai App Ini";
+"PrivacyPolicy" = "Dasar Privasi";
+"Connecting" = "Menyambung...";
+"IssueCategory" = "Kategori Isu";
+"Description" = "Penerangan";
+"Connect" = "Sambung";
+"Disconnect" = "Putus";
+"Disconnecting" = "Memutuskan...";
+"feedback_submit" = "Hantar maklum balas";
+"feedback_submit_success_message" = "Terima kasih membantu kami memperbaiki! Kami suka mendengar daripada anda.";
+"about_version" = "Versi";
+"issue_categories_1" = "Maklum balas am";
+"issue_categories_2" = "Tidak dapat menyambung";
+"issue_categories_3" = "Kelajuan sambungan perlahan";
+"issue_categories_4" = "Cadangan";
+"issue_categories_5" = "Lain-lain";
+"feedbackErrorSelectType" = "Sila pilih jenis ralat";
+"feedbackErrorAddDescription" = "Sila tambah penerangan";
+"somethingWentWrong" = "Ada yang tidak kena. Sila cuba lagi nanti.";
+"OK" = "OK";
+"feedbackEmailIDLabel" = "Emel";
+"feedbackSubtext" = "Penerangan anda, alamat emel (jika diberikan), dan maklumat tambahan yang disebut dalam Polisi Pemungutan Data akan dihantar kepada pasukan nthLink. Sila jangan sertakan maklumat peribadi dalam maklum balas anda.";
+"privacyPolicyAgreeButton" = "Setuju dan teruskan";
+"privacyPolicyLearnMoreButton" = "Ketahui lebih lanjut mengenai nthLink";
+"homeReadLatestNews" = "Baca berita terkini";
+
+"about_text" = "<p>Kami adalah sekumpulan jurutera perisian dan keselamatan maklumat berpengalaman yang memulakan nthLink pada 2016 untuk menyokong peguam hak asasi manusia yang perlu mendapatkan maklumat terhad dan menyatakan perspektif mereka. Sejak itu kami telah menyediakan perkhidmatan ini kepada orang ramai. Pasukan pembangunan kami adalah pakar dalam kedua-dua teknologi keselamatan rangkaian dan kebolehpercayaan perkhidmatan.<br>Perkhidmatan kami adalah percuma dan akan kekal percuma terima kasih kepada penaja dan rakan kongsi kami. Mereka ialah:<br><br>&bull; Open Technology Fund  <br>&bull; Google Jigsaw  <br>&bull; Cure53  <br>&bull; Include Security  <br>&bull; Plaintext Design</p><p>Pasukan pembangunan kami cemerlang dalam kecanggihan teknologi pemintasan penapisan dan kebolehpercayaan perkhidmatan. Dengan pengalaman bertahun-tahun dalam bidang khusus ini, kami menyediakan pengguna dalam kawasan sasaran akses mudah, selamat dan boleh dipercayai kepada maklumat yang ditapis sebaliknya.</p>";

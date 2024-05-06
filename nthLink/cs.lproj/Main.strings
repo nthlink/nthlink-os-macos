@@ -1,0 +1,300 @@
+
+/* Class = "NSBox"; title = "Box"; ObjectID = "0zK-4I-KSZ"; */
+"0zK-4I-KSZ.title" = "Box";
+
+/* Class = "NSBox"; title = "Box"; ObjectID = "15j-eN-9tr"; */
+"15j-eN-9tr.title" = "Box";
+
+/* Class = "NSTextFieldCell"; title = "Label"; ObjectID = "24u-gU-RRF"; */
+"24u-gU-RRF.title" = "Label";
+
+/* Class = "NSTextFieldCell"; title = "Suggestions"; ObjectID = "4po-CP-JO9"; */
+"4po-CP-JO9.title" = "Suggestions";
+
+/* Class = "NSBox"; title = "Box"; ObjectID = "5mZ-OL-Q6O"; */
+"5mZ-OL-Q6O.title" = "Box";
+
+/* Class = "NSTextFieldCell"; title = "Label"; ObjectID = "7HI-wr-bvA"; */
+"7HI-wr-bvA.title" = "Label";
+
+/* Class = "NSBox"; title = "Box"; ObjectID = "8IR-Ms-bL5"; */
+"8IR-Ms-bL5.title" = "Box";
+
+/* Class = "NSBox"; title = "Box"; ObjectID = "8QW-rO-ScW"; */
+"8QW-rO-ScW.title" = "Box";
+
+/* Class = "NSButtonCell"; title = "Accept and continue"; ObjectID = "94i-Qm-GET"; */
+"94i-Qm-GET.title" = "Accept and continue";
+
+/* Class = "NSTextFieldCell"; title = "*"; ObjectID = "Dev-zk-PUy"; */
+"Dev-zk-PUy.title" = "*";
+
+/* Class = "NSTextFieldCell"; title = "Your content. Content that you upload, submit, store, send or receive through nthLink Servers (“Your Content”) is not uploaded or submitted to nthLink. We do not know what you are sending with nthLink."; ObjectID = "Dzo-9r-t9W"; */
+"Dzo-9r-t9W.title" = "Your content. Content that you upload, submit, store, send or receive through nthLink Servers (“Your Content”) is not uploaded or submitted to nthLink. We do not know what you are sending with nthLink.";
+
+/* Class = "NSTextFieldCell"; title = "nthLink"; ObjectID = "ENM-Pz-4c5"; */
+"ENM-Pz-4c5.title" = "nthLink";
+
+/* Class = "NSTextFieldCell"; title = "Version 1.0.0"; ObjectID = "EzL-6N-tuw"; */
+"EzL-6N-tuw.title" = "Version 1.0.0";
+
+/* Class = "NSTextFieldCell"; title = "Copyright notices. nthLink does not host or store any content that you access through nthLink Servers. Any notices of alleged copyright infringement or other legal notices relating to content hosted, stored, sent or received via nthLink Servers should be dealt with by you or directed to your Service Provider."; ObjectID = "F1j-aQ-gah"; */
+"F1j-aQ-gah.title" = "Copyright notices. nthLink does not host or store any content that you access through nthLink Servers. Any notices of alleged copyright infringement or other legal notices relating to content hosted, stored, sent or received via nthLink Servers should be dealt with by you or directed to your Service Provider.";
+
+/* Class = "NSTextFieldCell"; title = "Status"; ObjectID = "FXv-df-Jcc"; */
+"FXv-df-Jcc.title" = "Status";
+
+/* Class = "NSBox"; title = "Box"; ObjectID = "FjJ-ym-gE3"; */
+"FjJ-ym-gE3.title" = "Box";
+
+/* Class = "NSBox"; title = "Box"; ObjectID = "FwN-Sq-Boh"; */
+"FwN-Sq-Boh.title" = "Box";
+
+/* Class = "NSTextFieldCell"; title = "General feedback"; ObjectID = "Fyu-9E-Qcn"; */
+"Fyu-9E-Qcn.title" = "General feedback";
+
+/* Class = "NSTextFieldCell"; title = "Multiline Label"; ObjectID = "Gjg-fN-34V"; */
+"Gjg-fN-34V.title" = "Multiline Label";
+
+/* Class = "NSBox"; title = "Box"; ObjectID = "IFT-jD-deh"; */
+"IFT-jD-deh.title" = "Box";
+
+/* Class = "NSBox"; title = "Box"; ObjectID = "IKc-QZ-pTZ"; */
+"IKc-QZ-pTZ.title" = "Box";
+
+/* Class = "NSWindow"; title = "Window"; ObjectID = "IQv-IB-iLA"; */
+"IQv-IB-iLA.title" = "Window";
+
+/* Class = "NSTextFieldCell"; title = "Terms of Use"; ObjectID = "Iuh-TE-4Pc"; */
+"Iuh-TE-4Pc.title" = "Terms of Use";
+
+/* Class = "NSTextFieldCell"; title = "nthLink does not collect personally identifiable information and does not track which websites or online services you visit. nthLink may use your IP address, your device’s default language, cookies, and basic information on your operating system information (Android or iOS) to customize the services that you receive. This allows us to locate the nearest servers that can best support your device."; ObjectID = "LHM-Eu-B5e"; */
+"LHM-Eu-B5e.title" = "nthLink does not collect personally identifiable information and does not track which websites or online services you visit. nthLink may use your IP address, your device’s default language, cookies, and basic information on your operating system information (Android or iOS) to customize the services that you receive. This allows us to locate the nearest servers that can best support your device.";
+
+/* Class = "NSTextFieldCell"; title = "Cannot connect"; ObjectID = "MGU-NL-dUc"; */
+"MGU-NL-dUc.title" = "Cannot connect";
+
+/* Class = "NSTextFieldCell"; title = "Connection speed is slow"; ObjectID = "Nka-Qz-7il"; */
+"Nka-Qz-7il.title" = "Connection speed is slow";
+
+/* Class = "NSBox"; title = "Box"; ObjectID = "NmQ-jE-Vk2"; */
+"NmQ-jE-Vk2.title" = "Box";
+
+/* Class = "NSBox"; title = "Box"; ObjectID = "Oon-fd-X9c"; */
+"Oon-fd-X9c.title" = "Box";
+
+/* Class = "NSBox"; title = "Box"; ObjectID = "PkQ-ye-DTw"; */
+"PkQ-ye-DTw.title" = "Box";
+
+/* Class = "NSTextFieldCell"; title = "Feedback"; ObjectID = "Pz9-hz-6NL"; */
+"Pz9-hz-6NL.title" = "Feedback";
+
+/* Class = "NSTextFieldCell"; title = "Label"; ObjectID = "Q2n-xw-1um"; */
+"Q2n-xw-1um.title" = "Label";
+
+/* Class = "NSBox"; title = "Box"; ObjectID = "RBp-xl-6Cs"; */
+"RBp-xl-6Cs.title" = "Box";
+
+/* Class = "NSTextFieldCell"; title = "nthLink for Windows"; ObjectID = "T2p-Dr-u9O"; */
+"T2p-Dr-u9O.title" = "nthLink for Windows";
+
+/* Class = "NSBox"; title = "Box"; ObjectID = "VEM-6c-wL1"; */
+"VEM-6c-wL1.title" = "Box";
+
+/* Class = "NSTextFieldCell"; title = "Feedback"; ObjectID = "VPt-4I-Gg3"; */
+"VPt-4I-Gg3.title" = "Feedback";
+
+/* Class = "NSTextFieldCell"; title = "Tap to disconnect"; ObjectID = "Vyh-S1-e19"; */
+"Vyh-S1-e19.title" = "Tap to disconnect";
+
+/* Class = "NSBox"; title = "Box"; ObjectID = "W0c-sG-37D"; */
+"W0c-sG-37D.title" = "Box";
+
+/* Class = "NSTextFieldCell"; title = "Assumption of Risk. You may use nthLink and invite others to use nthLink only as permitted by law. We encourage you to check local laws and regulations before using nthLink."; ObjectID = "WSL-fs-zuw"; */
+"WSL-fs-zuw.title" = "Assumption of Risk. You may use nthLink and invite others to use nthLink only as permitted by law. We encourage you to check local laws and regulations before using nthLink.";
+
+/* Class = "NSBox"; title = "Box"; ObjectID = "XEM-g1-ZHo"; */
+"XEM-g1-ZHo.title" = "Box";
+
+/* Class = "NSTextFieldCell"; title = "We are a group of experienced software and information security engineers who started nthLink in 2016 to support human rights lawyers who needed to obtain restricted information and to express their perspectives. Since then we’ve made the service available to the wider public. Our development team are experts in both network security technology and service reliability.\n\nOur service is free and will remain free thanks to our sponsors and partners. They are:\n\t•\tOpen Technology Fund\n\t•\tGoogle Jigsaw\n\t•\tCure53\n\t•\tInclude Security\n\t•\tPlaintext Design \nOur development team excels in both the sophistication of censorship circumvention technology and the reliability of the service. With years of experience in this specialty area, we provide the users in targeted geographies simple, safe, and reliable access to otherwise censored information."; ObjectID = "XP1-nT-aI9"; */
+"XP1-nT-aI9.title" = "We are a group of experienced software and information security engineers who started nthLink in 2016 to support human rights lawyers who needed to obtain restricted information and to express their perspectives. Since then we’ve made the service available to the wider public. Our development team are experts in both network security technology and service reliability.\n\nOur service is free and will remain free thanks to our sponsors and partners. They are:\n\t•\tOpen Technology Fund\n\t•\tGoogle Jigsaw\n\t•\tCure53\n\t•\tInclude Security\n\t•\tPlaintext Design \nOur development team excels in both the sophistication of censorship circumvention technology and the reliability of the service. With years of experience in this specialty area, we provide the users in targeted geographies simple, safe, and reliable access to otherwise censored information.";
+
+/* Class = "NSViewController"; title = "Main"; ObjectID = "XfG-lQ-9wD"; */
+"XfG-lQ-9wD.title" = "Main";
+
+/* Class = "NSMenu"; title = "Main Menu"; ObjectID = "Z1o-7H-KV6"; */
+"Z1o-7H-KV6.title" = "Main Menu";
+
+/* Class = "NSTextFieldCell"; title = "Help"; ObjectID = "Z2r-t9-oqJ"; */
+"Z2r-t9-oqJ.title" = "Help";
+
+/* Class = "NSViewController"; title = "Splash"; ObjectID = "ZPs-bb-SGc"; */
+"ZPs-bb-SGc.title" = "Splash";
+
+/* Class = "NSBox"; title = "Box"; ObjectID = "a12-pA-jUp"; */
+"a12-pA-jUp.title" = "Box";
+
+/* Class = "NSTextFieldCell"; title = "License. nthLink is made available by nthLink under the Apache 2.0 license."; ObjectID = "a1p-qQ-QiN"; */
+"a1p-qQ-QiN.title" = "License. nthLink is made available by nthLink under the Apache 2.0 license.";
+
+/* Class = "NSTextFieldCell"; title = "Privacy Policy"; ObjectID = "aNB-lF-l7O"; */
+"aNB-lF-l7O.title" = "Privacy Policy";
+
+/* Class = "NSTextFieldCell"; title = "About"; ObjectID = "aNC-le-cT8"; */
+"aNC-le-cT8.title" = "About";
+
+/* Class = "NSBox"; title = "Box"; ObjectID = "az9-bp-gXg"; */
+"az9-bp-gXg.title" = "Box";
+
+/* Class = "NSTextFieldCell"; title = "Status"; ObjectID = "b7D-El-Caa"; */
+"b7D-El-Caa.title" = "Status";
+
+/* Class = "NSButtonCell"; title = "Learn more about nthLink"; ObjectID = "bIa-ad-srO"; */
+"bIa-ad-srO.title" = "Learn more about nthLink";
+
+/* Class = "NSTextFieldCell"; title = "Help"; ObjectID = "bb5-Bx-s9w"; */
+"bb5-Bx-s9w.title" = "Help";
+
+/* Class = "NSBox"; title = "Box"; ObjectID = "bhG-F3-CDh"; */
+"bhG-F3-CDh.title" = "Box";
+
+/* Class = "NSBox"; title = "Box"; ObjectID = "cbY-Ly-bZI"; */
+"cbY-Ly-bZI.title" = "Box";
+
+/* Class = "NSBox"; title = "Box"; ObjectID = "cim-8g-9Aa"; */
+"cim-8g-9Aa.title" = "Box";
+
+/* Class = "NSBox"; title = "Box"; ObjectID = "crw-1q-aTR"; */
+"crw-1q-aTR.title" = "Box";
+
+/* Class = "NSTextFieldCell"; title = "Others"; ObjectID = "dJe-cw-gAQ"; */
+"dJe-cw-gAQ.title" = "Others";
+
+/* Class = "NSBox"; title = "Box"; ObjectID = "dzO-TK-PKD"; */
+"dzO-TK-PKD.title" = "Box";
+
+/* Class = "NSBox"; title = "Box"; ObjectID = "e32-rc-qLJ"; */
+"e32-rc-qLJ.title" = "Box";
+
+/* Class = "NSViewController"; title = "Privacy"; ObjectID = "eNa-lN-LDF"; */
+"eNa-lN-LDF.title" = "Privacy";
+
+/* Class = "NSBox"; title = "Box"; ObjectID = "eqZ-l3-1D3"; */
+"eqZ-l3-1D3.title" = "Box";
+
+/* Class = "NSBox"; title = "Box"; ObjectID = "erR-WW-IeI"; */
+"erR-WW-IeI.title" = "Box";
+
+/* Class = "NSTextFieldCell"; title = "About"; ObjectID = "gqO-KU-cL6"; */
+"gqO-KU-cL6.title" = "About";
+
+/* Class = "NSTextFieldCell"; title = "Description"; ObjectID = "guh-iG-7Pe"; */
+"guh-iG-7Pe.title" = "Description";
+
+/* Class = "NSTextFieldCell"; title = "Label"; ObjectID = "h6x-IK-rBr"; */
+"h6x-IK-rBr.title" = "Label";
+
+/* Class = "NSBox"; title = "Box"; ObjectID = "hSY-Yv-DsH"; */
+"hSY-Yv-DsH.title" = "Box";
+
+/* Class = "NSTextFieldCell"; title = "Privacy Policy"; ObjectID = "hph-de-3QX"; */
+"hph-de-3QX.title" = "Privacy Policy";
+
+/* Class = "NSTextFieldCell"; title = "Rate this app"; ObjectID = "iJB-8y-77s"; */
+"iJB-8y-77s.title" = "Rate this app";
+
+/* Class = "NSBox"; title = "Box"; ObjectID = "ie4-vs-Cws"; */
+"ie4-vs-Cws.title" = "Box";
+
+/* Class = "NSViewController"; title = "Feedback"; ObjectID = "ixY-39-IhC"; */
+"ixY-39-IhC.title" = "Feedback";
+
+/* Class = "NSTextFieldCell"; title = "Help"; ObjectID = "j5g-vT-unA"; */
+"j5g-vT-unA.title" = "Help";
+
+/* Class = "NSTextFieldCell"; title = "Privacy Policy"; ObjectID = "jjt-Nh-1r0"; */
+"jjt-Nh-1r0.title" = "Privacy Policy";
+
+/* Class = "NSTextFieldCell"; title = "Status"; ObjectID = "jlQ-N7-kM4"; */
+"jlQ-N7-kM4.title" = "Status";
+
+/* Class = "NSTextFieldCell"; title = "Label"; ObjectID = "k96-RY-uAP"; */
+"k96-RY-uAP.title" = "Label";
+
+/* Class = "NSTextFieldCell"; title = "Connect"; ObjectID = "k9U-ja-VMV"; */
+"k9U-ja-VMV.title" = "Connect";
+
+/* Class = "NSTextFieldCell"; title = "General feedback"; ObjectID = "kB0-5L-kPb"; */
+"kB0-5L-kPb.title" = "General feedback";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "kwf-zw-lbM"; */
+"kwf-zw-lbM.title" = "Text Cell";
+
+/* Class = "NSBox"; title = "Box"; ObjectID = "lMR-3g-eQZ"; */
+"lMR-3g-eQZ.title" = "Box";
+
+/* Class = "NSTextFieldCell"; title = "Read Latest News"; ObjectID = "nVA-lA-xfA"; */
+"nVA-lA-xfA.title" = "Read Latest News";
+
+/* Class = "NSTextFieldCell"; title = "Privacy Policy"; ObjectID = "nXn-RP-v4p"; */
+"nXn-RP-v4p.title" = "Privacy Policy";
+
+/* Class = "NSBox"; title = "Box"; ObjectID = "qLJ-2f-x7P"; */
+"qLJ-2f-x7P.title" = "Box";
+
+/* Class = "NSBox"; title = "Box"; ObjectID = "qT5-5u-Bvh"; */
+"qT5-5u-Bvh.title" = "Box";
+
+/* Class = "NSBox"; title = "Box"; ObjectID = "qd3-dg-WUY"; */
+"qd3-dg-WUY.title" = "Box";
+
+/* Class = "NSTextFieldCell"; title = "Label"; ObjectID = "qei-t1-06j"; */
+"qei-t1-06j.title" = "Label";
+
+/* Class = "NSBox"; title = "Box"; ObjectID = "qev-oi-Xoi"; */
+"qev-oi-Xoi.title" = "Box";
+
+/* Class = "NSViewController"; title = "About"; ObjectID = "rPU-d4-8hq"; */
+"rPU-d4-8hq.title" = "About";
+
+/* Class = "NSBox"; title = "Box"; ObjectID = "rmN-ez-4qu"; */
+"rmN-ez-4qu.title" = "Box";
+
+/* Class = "NSTextFieldCell"; title = "Issue category"; ObjectID = "rzz-hx-nHD"; */
+"rzz-hx-nHD.title" = "Issue category";
+
+/* Class = "NSTextFieldCell"; title = "By accessing, downloading, or using nthLink, you are agreeing to the terms of services below. The Agreement is a binding contract between you and nthLink regarding your use of nthLink."; ObjectID = "sCF-3j-I1q"; */
+"sCF-3j-I1q.title" = "By accessing, downloading, or using nthLink, you are agreeing to the terms of services below. The Agreement is a binding contract between you and nthLink regarding your use of nthLink.";
+
+/* Class = "NSTextFieldCell"; title = "Your description, email address (if provided), and additional information referred to in the Data Collection Policy will be sent to the nthLink team. Please do not include personal information in your feedback."; ObjectID = "skm-kL-z3b"; */
+"skm-kL-z3b.title" = "Your description, email address (if provided), and additional information referred to in the Data Collection Policy will be sent to the nthLink team. Please do not include personal information in your feedback.";
+
+/* Class = "NSBox"; title = "Box"; ObjectID = "so4-zw-x9v"; */
+"so4-zw-x9v.title" = "Box";
+
+/* Class = "NSTextFieldCell"; title = "About"; ObjectID = "uHB-rt-a6d"; */
+"uHB-rt-a6d.title" = "About";
+
+/* Class = "NSBox"; title = "Box"; ObjectID = "vdB-Ga-XMw"; */
+"vdB-Ga-XMw.title" = "Box";
+
+/* Class = "NSTextFieldCell"; title = "Email"; ObjectID = "wkw-Mp-fMr"; */
+"wkw-Mp-fMr.title" = "Email";
+
+/* Class = "NSTextFieldCell"; title = "Rate this app"; ObjectID = "x1F-dS-An9"; */
+"x1F-dS-An9.title" = "Rate this app";
+
+/* Class = "NSBox"; title = "Box"; ObjectID = "xSn-WW-sbX"; */
+"xSn-WW-sbX.title" = "Box";
+
+/* Class = "NSTextFieldCell"; title = "Feedback"; ObjectID = "yMi-0V-DV4"; */
+"yMi-0V-DV4.title" = "Feedback";
+
+/* Class = "NSButtonCell"; title = "Submit feedback"; ObjectID = "zRn-mE-sfv"; */
+"zRn-mE-sfv.title" = "Submit feedback";
+
+/* Class = "NSBox"; title = "Box"; ObjectID = "zSi-jJ-TGV"; */
+"zSi-jJ-TGV.title" = "Box";
+
+/* Class = "NSTextFieldCell"; title = "Rate this app"; ObjectID = "zc4-SE-qji"; */
+"zc4-SE-qji.title" = "Rate this app";

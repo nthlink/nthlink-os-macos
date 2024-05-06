@@ -1,0 +1,6 @@
+framework module FlatButton {
+  umbrella header "FlatButton-umbrella.h"
+
+  export *
+  module * { export * }
+}

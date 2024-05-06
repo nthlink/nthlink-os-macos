@@ -1,0 +1,40 @@
+/* 
+  Localizable.strings
+  nthLink
+
+  Created by Vaneet Modgill on 13/04/24.
+  
+*/
+
+"Open nthLink" = "Apri nthLink";
+"Quit nthLink" = "Esci da nthLink";
+"Home" = "Home";
+"Feedback" = "Feedback";
+"About" = "Informazioni";
+"Help" = "Aiuto";
+"RateApp" = "Valuta questa app";
+"PrivacyPolicy" = "Informativa sulla privacy";
+"Connecting" = "Connessione in corso...";
+"IssueCategory" = "Categoria problema";
+"Description" = "Descrizione";
+"Connect" = "Connetti";
+"Disconnect" = "Disconnetti";
+"Disconnecting" = "Disconnessione in corso...";
+"feedback_submit" = "Invia feedback";
+"feedback_submit_success_message" = "Grazie per aiutarci a migliorare! Ci piace ricevere i tuoi suggerimenti.";
+"about_version" = "Versione";
+"issue_categories_1" = "Feedback generale";
+"issue_categories_2" = "Impossibile connettersi";
+"issue_categories_3" = "Velocità di connessione lenta";
+"issue_categories_4" = "Suggerimenti";
+"issue_categories_5" = "Altro";
+"feedbackErrorSelectType" = "Seleziona tipo di errore";
+"feedbackErrorAddDescription" = "Aggiungi descrizione";
+"somethingWentWrong" = "Qualcosa è andato storto. Riprova più tardi.";
+"OK" = "OK";
+"feedbackEmailIDLabel" = "Email";
+"feedbackSubtext" = "La tua descrizione, l'indirizzo email (se fornito) e ulteriori informazioni menzionate nella Politica di raccolta dati verranno inviate al team di nthLink. Non includere informazioni personali nel tuo feedback.";
+"privacyPolicyAgreeButton" = "Accetta e continua";
+"privacyPolicyLearnMoreButton" = "Scopri di più su nthLink";
+"homeReadLatestNews" = "Leggi le ultime notizie";
+"about_text" = "<p>Siamo un gruppo di esperti ingegneri di software e sicurezza informatica che hanno avviato nthLink nel 2016 per supportare gli avvocati per i diritti umani che avevano bisogno di ottenere informazioni riservate ed esprimere le loro prospettive. Da allora abbiamo reso il servizio disponibile al pubblico più ampio. Il nostro team di sviluppo è esperto sia nella tecnologia di sicurezza della rete che nell'affidabilità del servizio.<br>Il nostro servizio è gratuito e rimarrà gratuito grazie ai nostri sponsor e partner. Sono:<br><br>&bull; Open Technology Fund  <br>&bull; Google Jigsaw  <br>&bull; Cure53  <br>&bull; Include Security  <br>&bull; Plaintext Design</p><p>Il nostro team di sviluppo eccelle sia nella sofisticazione della tecnologia di elusione della censura che nell\'affidabilità del servizio. Con anni di esperienza in questa area di specialità, forniamo agli utenti in aree geografiche mirate un accesso semplice, sicuro e affidabile a informazioni altrimenti censurate.</p>";

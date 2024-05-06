@@ -1,0 +1,41 @@
+/* 
+  Localizable.strings
+  nthLink
+
+  Created by Vaneet Modgill on 13/04/24.
+  
+*/
+
+"Open nthLink" = "Deschide nthLink";
+"Quit nthLink" = "Ieși din nthLink";
+"Home" = "Acasă";
+"Feedback" = "Feedback";
+"About" = "Despre";
+"Help" = "Ajutor";
+"RateApp" = "Evaluează această aplicație";
+"PrivacyPolicy" = "Politica de confidențialitate";
+"Connecting" = "Conectare...";
+"IssueCategory" = "Categorie problemă";
+"Description" = "Descriere";
+"Connect" = "Conectare";
+"Disconnect" = "Deconectare";
+"Disconnecting" = "Deconectare...";
+"feedback_submit" = "Trimite feedback";
+"feedback_submit_success_message" = "Mulțumim că ne ajutați să ne îmbunătățim! Ne place să auzim de la tine.";
+"about_version" = "Versiune";
+"issue_categories_1" = "Feedback general";
+"issue_categories_2" = "Nu se poate conecta";
+"issue_categories_3" = "Viteză lentă de conectare";
+"issue_categories_4" = "Sugestii";
+"issue_categories_5" = "Altele";
+"feedbackErrorSelectType" = "Vă rugăm să selectați tipul de eroare";
+"feedbackErrorAddDescription" = "Vă rugăm să adăugați o descriere";
+"somethingWentWrong" = "Ceva nu a mers bine. Vă rugăm să încercați mai târziu.";
+"OK" = "OK";
+"feedbackEmailIDLabel" = "E-mail";
+"feedbackSubtext" = "Descrierea dvs., adresa de e-mail (dacă este furnizată) și informațiile suplimentare menționate în Politica de colectare a datelor vor fi trimise echipei nthLink. Vă rugăm să nu includeți informații personale în feedback-ul dvs.";
+"privacyPolicyAgreeButton" = "Acceptă și continuă";
+"privacyPolicyLearnMoreButton" = "Află mai multe despre nthLink";
+"homeReadLatestNews" = "Citește ultimele știri";
+"about_text" = "<p>Suntem un grup de ingineri cu experiență în software și securitate a informațiilor care au început nthLink în 2016 pentru a sprijini avocații pentru drepturile omului care aveau nevoie să obțină informații restricționate și să-și exprime perspectivele. De atunci, am pus serviciul la dispoziția publicului larg. Echipa noastră de dezvoltare este experți atât în tehnologia de securitate a rețelei, cât și în fiabilitatea serviciilor.<br>Serviciul nostru este gratuit și va rămâne gratuit datorită sponsorilor și partenerilor noștri. Sunt:<br><br>&bull; Open Technology Fund  <br>&bull; Google Jigsaw  <br>&bull; Cure53  <br>&bull; Include Security  <br>&bull; Plaintext Design</p><p>Echipa noastră de dezvoltare excelează atât în ceea ce privește sofisticarea tehnologiei de eludare a cenzurii, cât și fiabilitatea serviciului. Cu ani de experiență în acest domeniu de specialitate, oferim utilizatorilor din zonele geografice vizate acces simplu, sigur și de încredere la informații cenzurate altfel.</p>";
+

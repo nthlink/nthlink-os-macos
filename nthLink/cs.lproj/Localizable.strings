@@ -1,0 +1,40 @@
+/* 
+  Localizable.strings
+  nthLink
+
+  Created by Vaneet Modgill on 13/04/24.
+  
+*/
+
+"Open nthLink" = "Otevřít nthLink";
+"Quit nthLink" = "Ukončit nthLink";
+"Home" = "Domů";
+"Feedback" = "Zpětná vazba";
+"About" = "O aplikaci";
+"Help" = "Pomoc";
+"RateApp" = "Ohodnotit aplikaci";
+"PrivacyPolicy" = "Zásady ochrany soukromí";
+"Connecting" = "Připojuji...";
+"IssueCategory" = "Kategorie problému";
+"Description" = "Popis";
+"Connect" = "Připojit";
+"Disconnect" = "Odpojit";
+"Disconnecting" = "Odpojuji...";
+"feedback_submit" = "Odeslat zpětnou vazbu";
+"feedback_submit_success_message" = "Děkujeme za pomoc při vylepšování! Rádi slyšíme vaše názory.";
+"about_version" = "Verze";
+"issue_categories_1" = "Obecná zpětná vazba";
+"issue_categories_2" = "Nelze se připojit";
+"issue_categories_3" = "Pomalá rychlost připojení";
+"issue_categories_4" = "Návrhy";
+"issue_categories_5" = "Jiné";
+"feedbackErrorSelectType" = "Prosím, vyberte typ chyby";
+"feedbackErrorAddDescription" = "Zadejte popis";
+"somethingWentWrong" = "Něco se pokazilo. Zkuste to znovu později.";
+"OK" = "OK";
+"feedbackEmailIDLabel" = "E-mail";
+"feedbackSubtext" = "Váš popis, e-mailová adresa (pokud je poskytnuta) a další informace uvedené v politice sběru dat budou odeslány týmu nthLink. Nevkládejte do své zpětné vazby osobní informace.";
+"privacyPolicyAgreeButton" = "Souhlasím a pokračovat";
+"privacyPolicyLearnMoreButton" = "Dozvědět se více o nthLink";
+"homeReadLatestNews" = "Číst nejnovější zprávy";
+"about_text" = "<p>Jsme skupina zkušených softwarových a informačních bezpečnostních inženýrů, kteří spustili nthLink v roce 2016 na podporu právníků v oblasti lidských práv, kteří potřebovali získat omezené informace a vyjádřit své názory. Od té doby jsme službu zpřístupnili široké veřejnosti. Náš vývojový tým je odborníky jak na technologii zabezpečení sítě, tak na spolehlivost služeb.<br>Naše služba je bezplatná a zůstane bezplatná díky našim sponzorům a partnerům. Oni jsou:<br><br>&bull; Open Technology Fund  <br>&bull; Google Jigsaw  <br>&bull; Cure53  <br>&bull; Include Security  <br>&bull; Plaintext Design</p><p>Náš vývojový tým vyniká jak propracovaností technologie obcházení cenzury, tak spolehlivostí služeb. Díky dlouholetým zkušenostem v této speciální oblasti poskytujeme uživatelům v cílených geografických oblastech jednoduchý, bezpečný a spolehlivý přístup k jinak cenzurovaným informacím.</p>.";

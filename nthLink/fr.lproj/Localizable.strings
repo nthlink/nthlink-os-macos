@@ -1,0 +1,40 @@
+/* 
+  Localizable.strings
+  nthLink
+
+  Created by Vaneet Modgill on 13/04/24.
+  
+*/
+
+"Open nthLink" = "Ouvrir nthLink";
+"Quit nthLink" = "Quitter nthLink";
+"Home" = "Accueil";
+"Feedback" = "Retour";
+"About" = "À propos";
+"Help" = "Aide";
+"RateApp" = "Noter cette app";
+"PrivacyPolicy" = "Politique de confidentialité";
+"Connecting" = "Connexion en cours...";
+"IssueCategory" = "Catégorie de problème";
+"Description" = "Description";
+"Connect" = "Connecter";
+"Disconnect" = "Déconnecter";
+"Disconnecting" = "Déconnexion en cours...";
+"feedback_submit" = "Envoyer le retour";
+"feedback_submit_success_message" = "Merci de nous aider à nous améliorer ! Nous aimons avoir de vos nouvelles.";
+"about_version" = "Version";
+"issue_categories_1" = "Retour général";
+"issue_categories_2" = "Impossible de se connecter";
+"issue_categories_3" = "Vitesse de connexion lente";
+"issue_categories_4" = "Suggestions";
+"issue_categories_5" = "Autre";
+"feedbackErrorSelectType" = "Veuillez sélectionner un type d'erreur";
+"feedbackErrorAddDescription" = "Veuillez ajouter une description";
+"somethingWentWrong" = "Quelque chose s'est mal passé. Veuillez réessayer plus tard.";
+"OK" = "OK";
+"feedbackEmailIDLabel" = "E-mail";
+"feedbackSubtext" = "Votre description, adresse e-mail (si fournie) et informations supplémentaires mentionnées dans la Politique de collecte des données seront envoyées à l'équipe nthLink. Veuillez ne pas inclure d'informations personnelles dans votre retour.";
+"privacyPolicyAgreeButton" = "Accepter et continuer";
+"privacyPolicyLearnMoreButton" = "En savoir plus sur nthLink";
+"homeReadLatestNews" = "Lire les dernières nouvelles";
+"about_text" = "<p>Nous sommes un groupe d'ingénieurs expérimentés en logiciels et en sécurité de l'information qui ont lancé nthLink en 2016 pour soutenir les avocats spécialisés dans les droits de l'homme qui avaient besoin d'obtenir des informations confidentielles et d'exprimer leurs points de vue. Depuis, nous avons rendu le service accessible au plus grand public. Notre équipe de développement est experte à la fois en technologie de sécurité réseau et en fiabilité des services.<br>Notre service est gratuit et le restera grâce à nos sponsors et partenaires. Ils sont:<br><br>&bull; Open Technology Fund  <br>&bull; Google Jigsaw  <br>&bull; Cure53  <br>&bull; Include Security  <br>&bull; Plaintext Design</p><p>Notre équipe de développement excelle à la fois dans la sophistication de la technologie de contournement de la censure et dans la fiabilité du service. Avec des années d\'expérience dans ce domaine de spécialité, nous fournissons aux utilisateurs des zones géographiques ciblées un accès simple, sûr et fiable à des informations autrement censurées.</p>";

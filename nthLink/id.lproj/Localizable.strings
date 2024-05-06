@@ -1,0 +1,41 @@
+/* 
+  Localizable.strings
+  nthLink
+
+  Created by Vaneet Modgill on 13/04/24.
+  
+*/
+
+"Open nthLink" = "Buka nthLink";
+"Quit nthLink" = "Keluar dari nthLink";
+"Home" = "Beranda";
+"Feedback" = "Masukan";
+"About" = "Tentang";
+"Help" = "Bantuan";
+"RateApp" = "Beri Nilai Aplikasi Ini";
+"PrivacyPolicy" = "Kebijakan Privasi";
+"Connecting" = "Menghubungkan...";
+"IssueCategory" = "Kategori Masalah";
+"Description" = "Deskripsi";
+"Connect" = "Hubungkan";
+"Disconnect" = "Putuskan";
+"Disconnecting" = "Memutuskan...";
+"feedback_submit" = "Kirim masukan";
+"feedback_submit_success_message" = "Terima kasih telah membantu kami memperbaiki! Kami senang mendengar dari Anda.";
+"about_version" = "Versi";
+"issue_categories_1" = "Masukan umum";
+"issue_categories_2" = "Tidak dapat terhubung";
+"issue_categories_3" = "Kecepatan koneksi lambat";
+"issue_categories_4" = "Saran";
+"issue_categories_5" = "Lainnya";
+"feedbackErrorSelectType" = "Silakan pilih jenis kesalahan";
+"feedbackErrorAddDescription" = "Harap tambahkan deskripsi";
+"somethingWentWrong" = "Terjadi kesalahan. Silakan coba lagi nanti.";
+"OK" = "OK";
+"feedbackEmailIDLabel" = "Email";
+"feedbackSubtext" = "Deskripsi Anda, alamat email (jika disediakan), dan informasi tambahan yang disebutkan dalam Kebijakan Pengumpulan Data akan dikirimkan ke tim nthLink. Mohon jangan sertakan informasi pribadi dalam masukan Anda.";
+"privacyPolicyAgreeButton" = "Terima dan lanjutkan";
+"privacyPolicyLearnMoreButton" = "Pelajari lebih lanjut tentang nthLink";
+"homeReadLatestNews" = "Baca berita terbaru";
+
+"about_text" = "<p>Kami adalah sekelompok insinyur perangkat lunak dan keamanan informasi berpengalaman yang memulai nthLink pada tahun 2016 untuk mendukung pengacara hak asasi manusia yang perlu memperoleh informasi terbatas dan untuk mengekspresikan perspektif mereka. Sejak itu kami telah membuat layanan ini tersedia untuk masyarakat luas. Tim pengembangan kami ahli dalam teknologi keamanan jaringan dan keandalan layanan.<br>Layanan kami gratis dan akan tetap gratis berkat sponsor dan mitra kami. Mereka:<br><br>&bull; Open Technology Fund  <br>&bull; Google Jigsaw  <br>&bull; Cure53  <br>&bull; Include Security  <br>&bull; Plaintext Design</p><p>Tim pengembangan kami unggul dalam kecanggihan teknologi pengelakan sensor dan keandalan layanan. Dengan pengalaman bertahun-tahun di bidang khusus ini, kami menyediakan akses yang sederhana, aman, dan andal kepada pengguna di wilayah yang ditargetkan ke informasi yang disensor.</p>";

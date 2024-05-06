@@ -1,0 +1,40 @@
+/* 
+  Localizable.strings
+  nthLink
+
+  Created by Vaneet Modgill on 13/04/24.
+  
+*/
+"Open nthLink" = "Abrir nthLink";
+"Quit nthLink" = "Salir de nthLink";
+"Home" = "Inicio";
+"Feedback" = "Comentarios";
+"About" = "Acerca de";
+"Help" = "Ayuda";
+"RateApp" = "Calificar esta app";
+"PrivacyPolicy" = "Política de privacidad";
+"Connecting" = "Conectando...";
+"IssueCategory" = "Categoría del problema";
+"Description" = "Descripción";
+"Connect" = "Conectar";
+"Disconnect" = "Desconectar";
+"Disconnecting" = "Desconectando...";
+"feedback_submit" = "Enviar comentarios";
+"feedback_submit_success_message" = "¡Gracias por ayudarnos a mejorar! Nos encanta escuchar de ti.";
+"about_version" = "Versión";
+"issue_categories_1" = "Comentarios generales";
+"issue_categories_2" = "No se puede conectar";
+"issue_categories_3" = "Conexión lenta";
+"issue_categories_4" = "Sugerencias";
+"issue_categories_5" = "Otros";
+"feedbackErrorSelectType" = "Por favor, selecciona un tipo de error";
+"feedbackErrorAddDescription" = "Por favor, añade una descripción";
+"somethingWentWrong" = "Algo salió mal. Por favor, intenta de nuevo más tarde.";
+"OK" = "Aceptar";
+"feedbackEmailIDLabel" = "Correo electrónico";
+"feedbackSubtext" = "Tu descripción, dirección de correo electrónico (si se proporciona), y la información adicional mencionada en la Política de recopilación de datos se enviarán al equipo de nthLink. Por favor, no incluyas información personal en tus comentarios.";
+"privacyPolicyAgreeButton" = "Aceptar y continuar";
+"privacyPolicyLearnMoreButton" = "Más información sobre nthLink";
+"homeReadLatestNews" = "Lee las últimas noticias";
+
+"about_text" = "<p>Somos un grupo de ingenieros experimentados en software y seguridad de la información que fundamos nthLink en 2016 para apoyar a los abogados de derechos humanos que necesitaban obtener información restringida y expresar sus perspectivas. Desde entonces hemos puesto el servicio a disposición del público en general. Nuestro equipo de desarrollo es experto tanto en tecnología de seguridad de red como en confiabilidad del servicio.<br>Nuestro servicio es gratuito y seguirá siendo gratuito gracias a nuestros patrocinadores y socios. Ellos son:<br><br>&bull; Open Technology Fund  <br>&bull; Google Jigsaw  <br>&bull; Cure53  <br>&bull; Include Security  <br>&bull; Plaintext Design</p><p>Nuestro equipo de desarrollo sobresale tanto en la sofisticación de la tecnología de elusión de la censura como en la confiabilidad del servicio. Con años de experiencia en esta área de especialidad, brindamos a los usuarios en geografías específicas acceso simple, seguro y confiable a información que de otro modo estaría censurada.</p>";

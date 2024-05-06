@@ -1,0 +1,41 @@
+/* 
+  Localizable.strings
+  nthLink
+
+  Created by Vaneet Modgill on 13/04/24.
+  
+*/
+
+"Open nthLink" = "nthLink 열기";
+"Quit nthLink" = "nthLink 종료";
+"Home" = "홈";
+"Feedback" = "피드백";
+"About" = "소개";
+"Help" = "도움말";
+"RateApp" = "이 앱 평가하기";
+"PrivacyPolicy" = "개인정보 처리방침";
+"Connecting" = "연결 중...";
+"IssueCategory" = "문제 카테고리";
+"Description" = "설명";
+"Connect" = "연결";
+"Disconnect" = "연결 끊기";
+"Disconnecting" = "연결 끊는 중...";
+"feedback_submit" = "피드백 제출";
+"feedback_submit_success_message" = "개선에 도움을 주셔서 감사합니다! 고객님의 의견을 소중하게 생각합니다.";
+"about_version" = "버전";
+"issue_categories_1" = "일반 피드백";
+"issue_categories_2" = "연결할 수 없음";
+"issue_categories_3" = "연결 속도가 느림";
+"issue_categories_4" = "건의";
+"issue_categories_5" = "기타";
+"feedbackErrorSelectType" = "오류 유형을 선택하세요";
+"feedbackErrorAddDescription" = "설명을 추가하세요";
+"somethingWentWrong" = "문제가 발생했습니다. 나중에 다시 시도하세요.";
+"OK" = "확인";
+"feedbackEmailIDLabel" = "이메일";
+"feedbackSubtext" = "제공한 설명, 이메일 주소(제공된 경우) 및 데이터 수집 정책에서 언급된 추가 정보는 nthLink 팀에 전송됩니다. 피드백에 개인 정보를 포함하지 마세요.";
+"privacyPolicyAgreeButton" = "동의하고 계속하기";
+"privacyPolicyLearnMoreButton" = "nthLink에 대해 더 알아보기";
+"homeReadLatestNews" = "최신 뉴스 읽기";
+
+"about_text" = "<p>우리는 제한된 정보를 얻고 자신의 관점을 표현해야 하는 인권 변호사를 지원하기 위해 2016년 nthLink를 시작한 숙련된 소프트웨어 및 정보 보안 엔지니어 그룹입니다. 그 이후로 우리는 더 많은 대중에게 서비스를 제공했습니다. 우리 개발팀은 네트워크 보안 기술과 서비스 안정성 분야의 전문가입니다.<br>우리의 서비스는 무료이며 후원자와 파트너 덕분에 계속 무료로 유지될 것입니다. 그들은:<br><br>&bull; Open Technology Fund  <br>&bull; Google Jigsaw  <br>&bull; Cure53  <br>&bull; Include Security  <br>&bull; Plaintext Design</p><p>우리 개발 팀은 검열 우회 기술의 정교함과 서비스의 신뢰성 모두에서 탁월합니다. 이 전문 분야에서 다년간의 경험을 바탕으로 대상 지역의 사용자에게 검열된 정보에 간단하고 안전하며 신뢰할 수 있는 액세스를 제공합니다.</p>";

@@ -1,0 +1,40 @@
+/* 
+  Localizable.strings
+  nthLink
+
+  Created by Vaneet Modgill on 13/04/24.
+  
+*/
+
+"Open nthLink" = "Åpne nthLink";
+"Quit nthLink" = "Avslutt nthLink";
+"Home" = "Hjem";
+"Feedback" = "Tilbakemelding";
+"About" = "Om";
+"Help" = "Hjelp";
+"RateApp" = "Vurder denne appen";
+"PrivacyPolicy" = "Personvernpolicy";
+"Connecting" = "Kobler til...";
+"IssueCategory" = "Problemkategori";
+"Description" = "Beskrivelse";
+"Connect" = "Koble til";
+"Disconnect" = "Koble fra";
+"Disconnecting" = "Kobler fra...";
+"feedback_submit" = "Send tilbakemelding";
+"feedback_submit_success_message" = "Takk for at du hjelper oss med å forbedre! Vi setter pris på tilbakemeldingene dine.";
+"about_version" = "Versjon";
+"issue_categories_1" = "Generell tilbakemelding";
+"issue_categories_2" = "Kan ikke koble til";
+"issue_categories_3" = "Tilkoblingshastighet er treg";
+"issue_categories_4" = "Forslag";
+"issue_categories_5" = "Annet";
+"feedbackErrorSelectType" = "Vennligst velg feiltyper";
+"feedbackErrorAddDescription" = "Vennligst legg til beskrivelse";
+"somethingWentWrong" = "Noe gikk galt. Prøv igjen senere.";
+"OK" = "OK";
+"feedbackEmailIDLabel" = "E-post";
+"feedbackSubtext" = "Din beskrivelse, e-postadresse (hvis gitt), og tilleggsinformasjon nevnt i Datainnsamlingspolicyen vil bli sendt til nthLink-teamet. Vennligst ikke inkluder personlig informasjon i tilbakemeldingen din.";
+"privacyPolicyAgreeButton" = "Aksepter og fortsett";
+"privacyPolicyLearnMoreButton" = "Lær mer om nthLink";
+"homeReadLatestNews" = "Les siste nytt";
+"about_text" = "<p>Vi er en gruppe erfarne programvare- og informasjonssikkerhetsingeniører som startet nthLink i 2016 for å støtte menneskerettighetsadvokater som trengte å innhente begrenset informasjon og uttrykke sine perspektiver. Siden den gang har vi gjort tjenesten tilgjengelig for et bredere publikum. Vårt utviklingsteam er eksperter på både nettverkssikkerhetsteknologi og tjenestepålitelighet.<br>Tjenesten vår er gratis og vil forbli gratis takket være våre sponsorer og partnere. De er:<br><br>&bull; Open Technology Fund  <br>&bull; Google Jigsaw  <br>&bull; Cure53  <br>&bull; Include Security  <br>&bull; Plaintext Design</p><p>Utviklingsteamet vårt utmerker seg både i sofistikeringen av teknologi for omgåelse av sensur og påliteligheten til tjenesten. Med mange års erfaring innen dette spesialområdet gir vi brukerne i målrettede geografier enkel, sikker og pålitelig tilgang til ellers sensurert informasjon.</p>";

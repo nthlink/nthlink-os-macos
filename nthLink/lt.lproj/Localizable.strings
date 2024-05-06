@@ -1,0 +1,39 @@
+/* 
+  Localizable.strings
+  nthLink
+
+  Created by Vaneet Modgill on 13/04/24.
+  
+*/
+"Open nthLink" = "Atidaryti nthLink";
+"Quit nthLink" = "Išeiti iš nthLink";
+"Home" = "Pagrindinis";
+"Feedback" = "Atsiliepimai";
+"About" = "Apie";
+"Help" = "Pagalba";
+"RateApp" = "Įvertinti šią programėlę";
+"PrivacyPolicy" = "Privatumo politika";
+"Connecting" = "Jungiamasi...";
+"IssueCategory" = "Problemos kategorija";
+"Description" = "Aprašymas";
+"Connect" = "Jungtis";
+"Disconnect" = "Atjungtis";
+"Disconnecting" = "Atjungiama...";
+"feedback_submit" = "Pateikti atsiliepimą";
+"feedback_submit_success_message" = "Ačiū, kad padedate mums tobulėti! Mums malonu girdėti jūsų nuomonę.";
+"about_version" = "Versija";
+"issue_categories_1" = "Bendri atsiliepimai";
+"issue_categories_2" = "Negali prisijungti";
+"issue_categories_3" = "Lėtas prisijungimo greitis";
+"issue_categories_4" = "Pasiūlymai";
+"issue_categories_5" = "Kita";
+"feedbackErrorSelectType" = "Pasirinkite klaidos tipą";
+"feedbackErrorAddDescription" = "Pridėkite aprašymą";
+"somethingWentWrong" = "Įvyko klaida. Bandykite vėliau.";
+"OK" = "Gerai";
+"feedbackEmailIDLabel" = "El. paštas";
+"feedbackSubtext" = "Jūsų aprašymas, el. pašto adresas (jei pateiktas) ir papildoma informacija, nurodyta Duomenų rinkimo politikoje, bus išsiųsta nthLink komandai. Prašome neįtraukti asmeninės informacijos į savo atsiliepimus.";
+"privacyPolicyAgreeButton" = "Sutinku ir tęsti";
+"privacyPolicyLearnMoreButton" = "Sužinokite daugiau apie nthLink";
+"homeReadLatestNews" = "Skaityti naujausias naujienas";
+"about_text" = "<p>Esame patyrusių programinės įrangos ir informacijos saugos inžinierių grupė, kuri 2016 m. pradėjo „nthLink“, siekdama paremti žmogaus teisių teisininkus, kuriems reikėjo gauti riboto naudojimo informaciją ir išreikšti savo požiūrį. Nuo tada paslauga tapo prieinama platesnei visuomenei. Mūsų kūrėjų komanda yra tinklo saugumo technologijų ir paslaugų patikimumo ekspertai.<br>Mūsų paslauga yra nemokama ir išliks nemokama mūsų rėmėjų ir partnerių dėka. Jie yra:<br><br>&bull; Open Technology Fund  <br>&bull; Google Jigsaw  <br>&bull; Cure53  <br>&bull; Include Security  <br>&bull; Plaintext Design</p><p>Mūsų kūrėjų komanda išsiskiria tiek cenzūros apėjimo technologija, tiek paslaugos patikimumu. Turėdami ilgametę patirtį šioje specialioje srityje, vartotojams tikslinėse geografinėse vietovėse suteikiame paprastą, saugią ir patikimą prieigą prie kitaip cenzūruojamos informacijos.</p>";

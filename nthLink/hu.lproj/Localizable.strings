@@ -1,0 +1,41 @@
+/* 
+  Localizable.strings
+  nthLink
+
+  Created by Vaneet Modgill on 13/04/24.
+  
+*/
+
+"Open nthLink" = "nthLink megnyitása";
+"Quit nthLink" = "nthLink kilépése";
+"Home" = "Főoldal";
+"Feedback" = "Visszajelzés";
+"About" = "Névjegy";
+"Help" = "Segítség";
+"RateApp" = "Az alkalmazás értékelése";
+"PrivacyPolicy" = "Adatvédelmi irányelvek";
+"Connecting" = "Csatlakozás...";
+"IssueCategory" = "Probléma kategória";
+"Description" = "Leírás";
+"Connect" = "Csatlakozás";
+"Disconnect" = "Kapcsolat bontása";
+"Disconnecting" = "Kapcsolat bontása...";
+"feedback_submit" = "Visszajelzés küldése";
+"feedback_submit_success_message" = "Köszönjük, hogy segített javítani! Szeretjük hallani a véleményedet.";
+"about_version" = "Verzió";
+"issue_categories_1" = "Általános visszajelzés";
+"issue_categories_2" = "Nem lehet csatlakozni";
+"issue_categories_3" = "Lassú csatlakozási sebesség";
+"issue_categories_4" = "Javaslatok";
+"issue_categories_5" = "Egyéb";
+"feedbackErrorSelectType" = "Kérem, válassza ki a hibatípust";
+"feedbackErrorAddDescription" = "Kérem, adja meg a leírást";
+"somethingWentWrong" = "Hiba történt. Kérem, próbálja meg később.";
+"OK" = "Rendben";
+"feedbackEmailIDLabel" = "E-mail";
+"feedbackSubtext" = "Az Ön leírása, e-mail címe (ha megadta), és az adatgyűjtési politikában megadott további információk elküldésre kerülnek az nthLink csapatának. Kérjük, ne adjon meg személyes információt a visszajelzésében.";
+"privacyPolicyAgreeButton" = "Elfogad és folytat";
+"privacyPolicyLearnMoreButton" = "Tudjon meg többet az nthLinkről";
+"homeReadLatestNews" = "Olvasd el a legújabb híreket";
+
+"about_text" = "<p>Tapasztalt szoftver- és információbiztonsági mérnökökből álló csoportot alkotunk, akik 2016-ban indították el az nthLink-et, hogy támogassák azokat az emberi jogi ügyvédeket, akiknek korlátozott információkhoz jutottak, és véleményük kifejtésére van szükségük. Azóta a szolgáltatást a szélesebb nyilvánosság számára is elérhetővé tesszük. Fejlesztőcsapatunk a hálózatbiztonsági technológia és a szolgáltatás-megbízhatóság szakértői.<br>Szolgáltatásunk ingyenes és továbbra is ingyenes lesz szponzorainknak és partnereinknek köszönhetően. Ők:<br><br>&bull; Open Technology Fund  <br>&bull; Google Jigsaw  <br>&bull; Cure53  <br>&bull; Include Security  <br>&bull; Plaintext Design</p><p>Fejlesztőcsapatunk a cenzúra-megkerülési technológia kifinomultságában és a szolgáltatás megbízhatóságában egyaránt kiemelkedő. Az ezen a speciális területen szerzett több éves tapasztalatunkkal a célzott földrajzi területeken lévő felhasználók számára egyszerű, biztonságos és megbízható hozzáférést biztosítunk az egyébként cenzúrázott információkhoz.</p>";

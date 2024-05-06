@@ -1,0 +1,40 @@
+/* 
+  Localizable.strings
+  nthLink
+
+  Created by Vaneet Modgill on 13/04/24.
+  
+*/
+"Open nthLink" = "Otwórz nthLink";
+"Quit nthLink" = "Wyjdź z nthLink";
+"Home" = "Strona główna";
+"Feedback" = "Opinia";
+"About" = "O aplikacji";
+"Help" = "Pomoc";
+"RateApp" = "Oceń tę aplikację";
+"PrivacyPolicy" = "Polityka prywatności";
+"Connecting" = "Łączenie...";
+"IssueCategory" = "Kategoria problemu";
+"Description" = "Opis";
+"Connect" = "Połącz";
+"Disconnect" = "Rozłącz";
+"Disconnecting" = "Rozłączanie...";
+"feedback_submit" = "Wyślij opinię";
+"feedback_submit_success_message" = "Dziękujemy za pomoc w doskonaleniu aplikacji! Cenimy Twoją opinię.";
+"about_version" = "Wersja";
+"issue_categories_1" = "Ogólna opinia";
+"issue_categories_2" = "Nie można połączyć";
+"issue_categories_3" = "Wolne łącze";
+"issue_categories_4" = "Sugestie";
+"issue_categories_5" = "Inne";
+"feedbackErrorSelectType" = "Proszę wybrać typ błędu";
+"feedbackErrorAddDescription" = "Proszę dodać opis";
+"somethingWentWrong" = "Coś poszło nie tak. Spróbuj ponownie później.";
+"OK" = "OK";
+"feedbackEmailIDLabel" = "E-mail";
+"feedbackSubtext" = "Twój opis, adres e-mail (jeśli podano), oraz dodatkowe informacje wskazane w Polityce Prywatności zostaną przekazane zespołowi nthLink. Prosimy o nieumieszczanie danych osobowych w Twojej opinii.";
+"privacyPolicyAgreeButton" = "Akceptuj i kontynuuj";
+"privacyPolicyLearnMoreButton" = "Dowiedz się więcej o nthLink";
+"homeReadLatestNews" = "Przeczytaj najnowsze wiadomości";
+
+"about_text" = "<p>Jesteśmy grupą doświadczonych inżynierów zajmujących się bezpieczeństwem oprogramowania i informacji, którzy założyli nthLink w 2016 roku, aby wspierać prawników zajmujących się prawami człowieka, którzy potrzebowali uzyskać zastrzeżone informacje i wyrazić swój punkt widzenia. Od tego czasu udostępniliśmy usługę szerszemu gronu odbiorców. Nasz zespół programistów to eksperci zarówno w dziedzinie technologii bezpieczeństwa sieci, jak i niezawodności usług.<br>Nasza usługa jest bezpłatna i pozostanie bezpłatna dzięki naszym sponsorom i partnerom. Oni są:<br><br>&bull; Open Technology Fund  <br>&bull; Google Jigsaw  <br>&bull; Cure53  <br>&bull; Include Security  <br>&bull; Plaintext Design</p><p>Nasz zespół programistów wyróżnia się zarówno zaawansowaniem technologii obchodzenia cenzury, jak i niezawodnością usługi. Dzięki wieloletniemu doświadczeniu w tej specjalności zapewniamy użytkownikom w docelowych lokalizacjach geograficznych prosty, bezpieczny i niezawodny dostęp do informacji cenzurowanych w inny sposób.</p>";
