@@ -2,7 +2,7 @@
 //  Extensions.swift
 //  nthLink
 //
-//  Created by Vaneet Modgill on 5/28/23.
+//  Created by RuiHua on 5/28/23.
 //
 
 import Cocoa
@@ -16,7 +16,7 @@ extension NSTextField {
 }
 
 extension NSMutableAttributedString {
-    var fontSize:CGFloat { return 11 }
+    var fontSize:CGFloat { return 15 }
     var boldFont:NSFont { return NSFont.boldSystemFont(ofSize: fontSize) }
     var normalFont:NSFont { return NSFont.systemFont(ofSize: fontSize)}
     
@@ -75,6 +75,15 @@ extension NSMutableAttributedString {
         
         self.append(NSAttributedString(string: value, attributes:attributes))
         return self
+    }
+}
+
+
+extension Date {
+    static func getCurrentDate() -> String {
+        let dateFormatter = DateFormatter()
+        dateFormatter.dateFormat = "yyyy-MM-dd HH:mm:ss"
+        return dateFormatter.string(from: Date())
     }
 }
 

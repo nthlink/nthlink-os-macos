@@ -8,7 +8,7 @@
 
 "Open nthLink" = "افتح nthLink";
 "Quit nthLink" = "إغلاق nthLink";
-"Home" = "الحالة";
+"Home" = "اتصال";
 "Feedback" = "ردود الفعل";
 "About" = "حول";
 "Help" = "مساعدة";
@@ -38,4 +38,37 @@
 "privacyPolicyLearnMoreButton" = "تعرف على المزيد عن nthLink";
 "homeReadLatestNews" = "اقرأ أحدث الأخبار";
 "about_text" = "بدأ<p>نحن مجموعة من مهندسي البرمجيات وأمن المعلومات ذوي الخبرة الذين أنشأنا nthLink في عام 2016 لدعم محامي حقوق الإنسان الذين يحتاجون إلى الحصول على معلومات مقيدة والتعبير عن وجهات نظرهم. ومنذ ذلك الحين جعلنا الخدمة متاحة للجمهور على نطاق أوسع. فريق التطوير لدينا هم خبراء في كل من تكنولوجيا أمن الشبكات وموثوقية الخدمة.<br>خدمتنا مجانية وستظل مجانية بفضل الرعاة والشركاء. هم:<br><br>&bull; Open Technology Fund  <br>&bull; Google Jigsaw  <br>&bull; Cure53  <br>&bull; Include Security  <br>&bull; Plaintext Design</p><p>يتفوق فريق التطوير لدينا في كل من تطور تقنية التحايل على الرقابة وموثوقية الخدمة. مع سنوات من الخبرة في هذا المجال التخصصي ، نوفر للمستخدمين في المناطق الجغرافية المستهدفة وصولًا بسيطًا وآمنًا وموثوقًا إلى المعلومات الخاضعة للرقابة.</p>";
+"menuBarHideText" = "إخفاء";
+"menuBarHideOthersText" = "إخفاء الآخرين";
+"menuBarShowAllext" = "إظهار الكل";
+"menuBarQuitText" = "إنهاء";
+"statusBarPrivacyAlert" = "يرجى قبول سياسة الخصوصية.";
+"statusBarConnectedText" = "متصل";
+"statusBarNotConnectedText" = "غير متصل";
+"statusBarOpenAppText" = "افتح التطبيق";
+"settingsScreen" = "الإعدادات";
+"settingsShowMenuBarText" ="عرض التطبيق في شريط القائمة";
+"statusBarNewsText" = "الأخبار";
+"statusBarReloadText" = "إعادة التحميل";
+"telegramIDText" = "تليجرام: ";
+"copiedText" = "تم النسخ";
+"telegramIdCopiedAlert" = "يرجى لصق المعرف على تليجرام.";
+"followUsText" = "تابعنا";
+"visitButtonText" = "زيارة";
+"diagnosticPageTitle" = "التشخيص";
+"diagnosticsStartButton" = "بدء التشخيص";
+"diagnosticsDescription" = "في نnthLink، نطلب أحيانًا مساعدتكم لتحسين خدماتنا من خلال توفير البيانات التشخيصية.
+
+بالنقر على الزر، تبدأ عملية التشخيص بجمع المعلومات وإرسالها إلى خوادمنا. نطمئنك أن جميع المعلومات المجمعة مجهولة الهوية تمامًا.";
+"diagnosticsSuceessMessage" = "شكرًا لمساعدتنا في التحسين! يسعدنا سماع آرائكم.";
+"diagnosticsInternetError" = "شبكة غير مستقرة. يرجى التحقق من اتصالك بالإنترنت.";
+"diagnosticsStartDisconnectWarning" = "سيؤدي بدء التشخيص إلى قطع الاتصال الحالي. هل أنت متأكد أنك تريد المتابعة؟";
+"Cancel" = "إلغاء";
+"loading" = "جارٍ التحميل...";
+"UpdateAppMenu" = "تحديث التطبيق";
+"updateScreenLabel" = "قم بتحديث تطبيقك إلى أحدث إصدار";
+"updateScreenSubtext" = "إصدار جديد من تطبيق nthLink متوفر الآن في متجر التطبيقات. يرجى تحديث تطبيقك للاستمتاع بجميع ميزاتنا المذهلة.";
+"updateScreenUpdateNowButtonText" = "تحديث الآن";
+
+
 

@@ -14,6 +14,7 @@ class MyCustomView: NSTableRowView {
         
         if isSelected == true {
             NSColor.init(red: 255/255, green: 255/255, blue: 255/255, alpha: 1).set()
+//            NSColor.green.set()
             __NSRectFill(dirtyRect)
         }
     }

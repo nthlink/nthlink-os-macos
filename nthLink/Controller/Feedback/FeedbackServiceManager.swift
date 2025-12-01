@@ -19,11 +19,8 @@ class FeedbackServiceManager {
     
     @available(macOS 12, *)
     func submitFeedback(emailID:String?, description:String?){
-        let result = 200 // Hit API and handle the success
-        if result == 200 {
+        DispatchQueue.main.asyncAfter(deadline: .now() + 0.5) {
             self.delegate?.feedbackServiceManagerDidSuccessfulySubmitFeedback(feedbackServiceManager: self)
-            return
         }
-        self.delegate?.feedbackServiceManagerDidFailToSendFeedback(feedbackServiceManager: self)
     }
 }

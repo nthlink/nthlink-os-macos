@@ -26,6 +26,7 @@ open class AppBaseViewController: NSViewController,NSWindowDelegate,AppBaseHandl
         if !runningApps.isEmpty {
             runningApps.last?.hide()
         }
+        //showDock(state: false)
         return false
     }
     

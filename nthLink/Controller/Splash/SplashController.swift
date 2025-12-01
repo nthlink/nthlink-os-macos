@@ -2,19 +2,17 @@
 //  SplashController.swift
 //  nthLink
 //
-//  Created by Vaneet Modgill on 5/22/23.
+//  Created by RuiHua on 5/22/23.
 //
 
 import Cocoa
 import SwiftyJSON
 
-@available(macOS 11.0, *)
 class SplashController: AppBaseViewController {
 
     override func viewDidLoad() {
         super.viewDidLoad()
-        
-        preferredContentSize = NSSize(width: 420, height: 550)
+        preferredContentSize = NSSize(width: 630, height: 825)
         // Do view setup here.
         self.setupInitialData()
    

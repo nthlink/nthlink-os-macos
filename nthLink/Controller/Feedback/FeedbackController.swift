@@ -2,13 +2,13 @@
 //  FeedbackController.swift
 //  nthLink
 //
-//  Created by Vaneet Modgill on 5/24/23.
+//  Created by RuiHua on 5/24/23.
 //
 
 import Cocoa
 import FlatButton
+import SwiftyJSON
 
-@available(macOS 11.0, *)
 class FeedbackController: AppBaseViewController {
     @IBOutlet weak var tfEmail: NSTextField!
     @IBOutlet weak var lbDescription: NSTextView!
@@ -34,10 +34,11 @@ class FeedbackController: AppBaseViewController {
     }
     
     private func setupInitialData(){
-        preferredContentSize = NSSize(width: 420, height: 550)
+        preferredContentSize = NSSize(width: 630, height: 825)
         self.serviceManager.delegate = self
         lbDescription.backgroundColor = NSColor.white
         lbDescription.layer?.backgroundColor = NSColor.white.cgColor
+        lbDescription.font = NSFont.systemFont(ofSize: 14)
         setArea(name: BoxNames.btGeneral, obj: btGeneral)
         setArea(name: BoxNames.btCantConnect, obj: btCantConnect)
         setArea(name: BoxNames.btSpeedLow, obj: btSpeedLow)
@@ -80,7 +81,7 @@ class FeedbackController: AppBaseViewController {
     }
     
     private func setupSideMenuBar(){
-        let menuBarView = MenuBarView(frame: NSRect(x: 0, y: 0, width: 100, height: 550))
+        let menuBarView = MenuBarView(frame: NSRect(x: 0, y: 0, width: 150, height: 825))
         menuBarView.selectedScreen = .Feedback
         menuBarView.reloadView()
         self.menuView.addSubview(menuBarView)
@@ -88,8 +89,8 @@ class FeedbackController: AppBaseViewController {
         NSLayoutConstraint.activate([
             menuBarView.centerXAnchor.constraint(equalTo: self.menuView.centerXAnchor),
             menuBarView.centerYAnchor.constraint(equalTo: self.menuView.centerYAnchor),
-            menuBarView.widthAnchor.constraint(equalToConstant: 100),
-            menuBarView.heightAnchor.constraint(equalToConstant: 550)
+            menuBarView.widthAnchor.constraint(equalToConstant: 150),
+            menuBarView.heightAnchor.constraint(equalToConstant: 825)
         ])
     }
     
@@ -167,7 +168,6 @@ class FeedbackController: AppBaseViewController {
     }
 }
 
-@available(macOS 11.0, *)
 extension FeedbackController:FeedbackServiceManagerDelegate{
     func feedbackServiceManagerDidSuccessfulySubmitFeedback(feedbackServiceManager:FeedbackServiceManager) {
         self.showCommonAlert(message: LocalizedStringEnum.feedback_submit_success_message.localized)

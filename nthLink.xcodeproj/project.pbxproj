@@ -17,15 +17,27 @@
 		2450AE8E2632229900476919 /* PacketTunnel.appex in Embed Foundation Extensions */ = {isa = PBXBuildFile; fileRef = 2450AE852632229900476919 /* PacketTunnel.appex */; settings = {ATTRIBUTES = (RemoveHeadersOnCopy, ); }; };
 		24A3A8CB29E275D7004DB347 /* cacert.pem in Resources */ = {isa = PBXBuildFile; fileRef = 24A3A8CA29E275D7004DB347 /* cacert.pem */; };
 		7155ADDC2A1DF2A800CAB741 /* FeedbackController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7155ADDA2A1DF2A800CAB741 /* FeedbackController.swift */; };
+		7155ADE02A1E1B0900CAB741 /* loading.json in Resources */ = {isa = PBXBuildFile; fileRef = 7155ADDE2A1E1B0900CAB741 /* loading.json */; };
 		715CBFC22A2D946600051C75 /* MyCustomView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 715CBFC12A2D946600051C75 /* MyCustomView.swift */; };
+		719DD9692A1B5F7800DB680E /* MenuButton.swift in Sources */ = {isa = PBXBuildFile; fileRef = 719DD9682A1B5F7800DB680E /* MenuButton.swift */; };
 		719DD96C2A1B604000DB680E /* SplashController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 719DD96A2A1B604000DB680E /* SplashController.swift */; };
 		719DD96F2A1B999100DB680E /* AboutController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 719DD96E2A1B999100DB680E /* AboutController.swift */; };
 		719DD9712A1BA13300DB680E /* PrivacyController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 719DD9702A1BA13300DB680E /* PrivacyController.swift */; };
 		71BFFAFA2A20B9DE00D06775 /* Function.swift in Sources */ = {isa = PBXBuildFile; fileRef = 71BFFAF92A20B9DE00D06775 /* Function.swift */; };
 		71C324232A2462A900B7A704 /* Extensions.swift in Sources */ = {isa = PBXBuildFile; fileRef = 71C324222A2462A900B7A704 /* Extensions.swift */; };
 		71D6E2E32A29E6E10074B9EA /* NewsCellView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 71D6E2E22A29E6E10074B9EA /* NewsCellView.swift */; };
+		71FEA3ED2A80E8C900F8D975 /* EventModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 71FEA3EC2A80E8C900F8D975 /* EventModel.swift */; };
 		B59B0C635B6C58FB65801275 /* Pods_PacketTunnel.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 011A6D4E1D32F62933496DB6 /* Pods_PacketTunnel.framework */; };
-		E06344D32BD6497E006A1D78 /* News.json in Resources */ = {isa = PBXBuildFile; fileRef = E06344D22BD6497E006A1D78 /* News.json */; };
+		E00190632BF9F6C700F6D2CC /* StatusMenuViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = E00190622BF9F6C700F6D2CC /* StatusMenuViewController.xib */; };
+		E00190642BF9F6C700F6D2CC /* StatusMenuViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = E00190612BF9F6C700F6D2CC /* StatusMenuViewController.swift */; };
+		E0079E0A2D1DC51600F18522 /* AppUpdateViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = E0079E092D1DC51600F18522 /* AppUpdateViewController.swift */; };
+		E011ABBA2CFF44CC00C58500 /* DiagnosticsViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = E011ABB92CFF44CC00C58500 /* DiagnosticsViewController.swift */; };
+		E03759732E8F8EC5002CAACD /* leaf.xcframework in Frameworks */ = {isa = PBXBuildFile; fileRef = E03759722E8F8EC5002CAACD /* leaf.xcframework */; };
+		E04CACF92C418719008194FD /* FollowUsView.swift in Sources */ = {isa = PBXBuildFile; fileRef = E04CACF82C418719008194FD /* FollowUsView.swift */; };
+		E04CACFD2C41883C008194FD /* FollowUsViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = E04CACFC2C41883C008194FD /* FollowUsViewController.swift */; };
+		E07273D22ED59D66008072B1 /* News.json in Resources */ = {isa = PBXBuildFile; fileRef = E07273D12ED59D66008072B1 /* News.json */; };
+		E0757B012C0096CB001E92AA /* StatusBarNewsCellView.swift in Sources */ = {isa = PBXBuildFile; fileRef = E0757B002C0096CB001E92AA /* StatusBarNewsCellView.swift */; };
+		E0757B052C00AE92001E92AA /* SettingsViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = E0757B032C00AE92001E92AA /* SettingsViewController.swift */; };
 		E076B9032BCA2FBC007B6B65 /* Constants.swift in Sources */ = {isa = PBXBuildFile; fileRef = E076B9022BCA2FBC007B6B65 /* Constants.swift */; };
 		E076B9072BCA308A007B6B65 /* NSStoryBoard+Loader.swift in Sources */ = {isa = PBXBuildFile; fileRef = E076B9062BCA308A007B6B65 /* NSStoryBoard+Loader.swift */; };
 		E076B9092BCA3154007B6B65 /* Utilities+NSObject.swift in Sources */ = {isa = PBXBuildFile; fileRef = E076B9082BCA3154007B6B65 /* Utilities+NSObject.swift */; };
@@ -40,12 +52,10 @@
 		E076B9552BCAD1F5007B6B65 /* MenuBarView.swift in Sources */ = {isa = PBXBuildFile; fileRef = E076B9542BCAD1F5007B6B65 /* MenuBarView.swift */; };
 		E076B9572BCAD21F007B6B65 /* MenuBarView.xib in Resources */ = {isa = PBXBuildFile; fileRef = E076B9562BCAD21F007B6B65 /* MenuBarView.xib */; };
 		E076B9592BCB795C007B6B65 /* FeedbackServiceManager.swift in Sources */ = {isa = PBXBuildFile; fileRef = E076B9582BCB795C007B6B65 /* FeedbackServiceManager.swift */; };
-		E076B95D2BCB8AB0007B6B65 /* HomeController+VPNConnect.swift in Sources */ = {isa = PBXBuildFile; fileRef = E076B95C2BCB8AB0007B6B65 /* HomeController+VPNConnect.swift */; };
 		E076B9612BCB9651007B6B65 /* VPNConstants.swift in Sources */ = {isa = PBXBuildFile; fileRef = E076B95F2BCB9651007B6B65 /* VPNConstants.swift */; };
 		E076B9632BCB968F007B6B65 /* VPNConstants.swift in Sources */ = {isa = PBXBuildFile; fileRef = E076B95F2BCB9651007B6B65 /* VPNConstants.swift */; };
-		E076B9652BCB9A04007B6B65 /* HomeController+LoadNews.swift in Sources */ = {isa = PBXBuildFile; fileRef = E076B9642BCB9A04007B6B65 /* HomeController+LoadNews.swift */; };
 		E076B9682BCBA134007B6B65 /* NewsData.swift in Sources */ = {isa = PBXBuildFile; fileRef = E076B9662BCBA134007B6B65 /* NewsData.swift */; };
-		E076B9692BCBA134007B6B65 /* ServerData.swift in Sources */ = {isa = PBXBuildFile; fileRef = E076B9672BCBA134007B6B65 /* ServerData.swift */; };
+		E0864EEA2BFDA84D00F47464 /* VPNServiceManager.swift in Sources */ = {isa = PBXBuildFile; fileRef = E0864EE92BFDA84D00F47464 /* VPNServiceManager.swift */; };
 		EFB60FD48FFA023033A581C7 /* Pods_nthLink.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = BFAE01D1CE13CAF4CE0D4229 /* Pods_nthLink.framework */; };
 /* End PBXBuildFile section */
 
@@ -103,18 +113,30 @@
 		28C381453D7D6E4983A98202 /* Pods-Cat Thing.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-Cat Thing.debug.xcconfig"; path = "Target Support Files/Pods-Cat Thing/Pods-Cat Thing.debug.xcconfig"; sourceTree = "<group>"; };
 		4BA99B0383C0D95478E6A2B5 /* Pods-Human VPN.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-Human VPN.release.xcconfig"; path = "Target Support Files/Pods-Human VPN/Pods-Human VPN.release.xcconfig"; sourceTree = "<group>"; };
 		7155ADDA2A1DF2A800CAB741 /* FeedbackController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FeedbackController.swift; sourceTree = "<group>"; };
+		7155ADDE2A1E1B0900CAB741 /* loading.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = loading.json; sourceTree = "<group>"; };
 		715CBFC12A2D946600051C75 /* MyCustomView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = MyCustomView.swift; sourceTree = "<group>"; };
+		719DD9682A1B5F7800DB680E /* MenuButton.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = MenuButton.swift; sourceTree = "<group>"; };
 		719DD96A2A1B604000DB680E /* SplashController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SplashController.swift; sourceTree = "<group>"; };
 		719DD96E2A1B999100DB680E /* AboutController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AboutController.swift; sourceTree = "<group>"; };
 		719DD9702A1BA13300DB680E /* PrivacyController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PrivacyController.swift; sourceTree = "<group>"; };
 		71BFFAF92A20B9DE00D06775 /* Function.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Function.swift; sourceTree = "<group>"; };
 		71C324222A2462A900B7A704 /* Extensions.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Extensions.swift; sourceTree = "<group>"; };
 		71D6E2E22A29E6E10074B9EA /* NewsCellView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NewsCellView.swift; sourceTree = "<group>"; };
+		71FEA3EC2A80E8C900F8D975 /* EventModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = EventModel.swift; sourceTree = "<group>"; };
 		B2E1ECAC032257AAF8A3892B /* Pods-nthLink.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-nthLink.debug.xcconfig"; path = "Target Support Files/Pods-nthLink/Pods-nthLink.debug.xcconfig"; sourceTree = "<group>"; };
 		B2E64CA2D58B7139FF1CB225 /* Pods-PacketTunnel.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-PacketTunnel.debug.xcconfig"; path = "Target Support Files/Pods-PacketTunnel/Pods-PacketTunnel.debug.xcconfig"; sourceTree = "<group>"; };
 		BFAE01D1CE13CAF4CE0D4229 /* Pods_nthLink.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_nthLink.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		C895AB22C53A216E8640E624 /* Pods-Human VPN.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-Human VPN.debug.xcconfig"; path = "Target Support Files/Pods-Human VPN/Pods-Human VPN.debug.xcconfig"; sourceTree = "<group>"; };
-		E06344D22BD6497E006A1D78 /* News.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = News.json; sourceTree = "<group>"; };
+		E00190612BF9F6C700F6D2CC /* StatusMenuViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StatusMenuViewController.swift; sourceTree = "<group>"; };
+		E00190622BF9F6C700F6D2CC /* StatusMenuViewController.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = StatusMenuViewController.xib; sourceTree = "<group>"; };
+		E0079E092D1DC51600F18522 /* AppUpdateViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppUpdateViewController.swift; sourceTree = "<group>"; };
+		E011ABB92CFF44CC00C58500 /* DiagnosticsViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DiagnosticsViewController.swift; sourceTree = "<group>"; };
+		E03759722E8F8EC5002CAACD /* leaf.xcframework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.xcframework; name = leaf.xcframework; path = "/Users/vaneetmodgill/Documents/GitHub/Teon/leafLibrary/Leaf Master oct 25/leaf.xcframework"; sourceTree = "<absolute>"; };
+		E04CACF82C418719008194FD /* FollowUsView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FollowUsView.swift; sourceTree = "<group>"; };
+		E04CACFC2C41883C008194FD /* FollowUsViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FollowUsViewController.swift; sourceTree = "<group>"; };
+		E07273D12ED59D66008072B1 /* News.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = News.json; sourceTree = "<group>"; };
+		E0757B002C0096CB001E92AA /* StatusBarNewsCellView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = StatusBarNewsCellView.swift; sourceTree = "<group>"; };
+		E0757B032C00AE92001E92AA /* SettingsViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SettingsViewController.swift; sourceTree = "<group>"; };
 		E076B9022BCA2FBC007B6B65 /* Constants.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Constants.swift; sourceTree = "<group>"; };
 		E076B9062BCA308A007B6B65 /* NSStoryBoard+Loader.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "NSStoryBoard+Loader.swift"; sourceTree = "<group>"; };
 		E076B9082BCA3154007B6B65 /* Utilities+NSObject.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Utilities+NSObject.swift"; sourceTree = "<group>"; };
@@ -169,11 +191,9 @@
 		E076B9542BCAD1F5007B6B65 /* MenuBarView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MenuBarView.swift; sourceTree = "<group>"; };
 		E076B9562BCAD21F007B6B65 /* MenuBarView.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = MenuBarView.xib; sourceTree = "<group>"; };
 		E076B9582BCB795C007B6B65 /* FeedbackServiceManager.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FeedbackServiceManager.swift; sourceTree = "<group>"; };
-		E076B95C2BCB8AB0007B6B65 /* HomeController+VPNConnect.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "HomeController+VPNConnect.swift"; sourceTree = "<group>"; };
 		E076B95F2BCB9651007B6B65 /* VPNConstants.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = VPNConstants.swift; sourceTree = "<group>"; };
-		E076B9642BCB9A04007B6B65 /* HomeController+LoadNews.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "HomeController+LoadNews.swift"; sourceTree = "<group>"; };
 		E076B9662BCBA134007B6B65 /* NewsData.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = NewsData.swift; sourceTree = "<group>"; };
-		E076B9672BCBA134007B6B65 /* ServerData.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ServerData.swift; sourceTree = "<group>"; };
+		E0864EE92BFDA84D00F47464 /* VPNServiceManager.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = VPNServiceManager.swift; sourceTree = "<group>"; };
 		E55B5CC9B3DCDFFD430A1770 /* Pods-Cat Thing.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-Cat Thing.release.xcconfig"; path = "Target Support Files/Pods-Cat Thing/Pods-Cat Thing.release.xcconfig"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
@@ -191,6 +211,7 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				E03759732E8F8EC5002CAACD /* leaf.xcframework in Frameworks */,
 				2450AE862632229900476919 /* NetworkExtension.framework in Frameworks */,
 				B59B0C635B6C58FB65801275 /* Pods_PacketTunnel.framework in Frameworks */,
 			);
@@ -223,12 +244,13 @@
 			isa = PBXGroup;
 			children = (
 				71D587F42A1FAD7C008FF713 /* Common */,
+				71D587F12A1FA92F008FF713 /* Model */,
 				719DD9672A1B5F6D00DB680E /* Component */,
 				719DD9642A1B5EC900DB680E /* Controller */,
 				2450AE69263220AB00476919 /* AppDelegate.swift */,
 				2450AE6D263220AC00476919 /* Assets.xcassets */,
+				E07273D12ED59D66008072B1 /* News.json */,
 				2450AE6F263220AC00476919 /* Main.storyboard */,
-				E06344D22BD6497E006A1D78 /* News.json */,
 				E076B9122BCA355E007B6B65 /* Localizable.strings */,
 				2450AE72263220AC00476919 /* Info.plist */,
 				2450AE73263220AC00476919 /* nthLink.entitlements */,
@@ -249,6 +271,7 @@
 		2450AE872632229900476919 /* PacketTunnel */ = {
 			isa = PBXGroup;
 			children = (
+				E03759722E8F8EC5002CAACD /* leaf.xcframework */,
 				24A3A8CA29E275D7004DB347 /* cacert.pem */,
 				2450AE882632229900476919 /* PacketTunnelProvider.swift */,
 				2450AE8A2632229900476919 /* Info.plist */,
@@ -260,11 +283,16 @@
 		719DD9642A1B5EC900DB680E /* Controller */ = {
 			isa = PBXGroup;
 			children = (
+				E0079E082D1DC4FE00F18522 /* UpdateApp */,
+				E011ABB82CFF44AC00C58500 /* Diagnostics */,
+				E04CACF72C418700008194FD /* FollowUs */,
+				E00190602BF9F62D00F6D2CC /* StatusMenu */,
 				E076B9042BCA2FF9007B6B65 /* Splash */,
 				E076B95B2BCB8761007B6B65 /* Home */,
 				E076B9532BCAD0EE007B6B65 /* CommonViews */,
 				E076B95A2BCB830D007B6B65 /* About */,
 				E076B9512BCACF03007B6B65 /* Privacy */,
+				E0757B022C00AE59001E92AA /* Settings */,
 				E076B9522BCAD02F007B6B65 /* Feedback */,
 			);
 			path = Controller;
@@ -274,8 +302,18 @@
 			isa = PBXGroup;
 			children = (
 				715CBFC12A2D946600051C75 /* MyCustomView.swift */,
+				7155ADDE2A1E1B0900CAB741 /* loading.json */,
+				719DD9682A1B5F7800DB680E /* MenuButton.swift */,
 			);
 			path = Component;
+			sourceTree = "<group>";
+		};
+		71D587F12A1FA92F008FF713 /* Model */ = {
+			isa = PBXGroup;
+			children = (
+				71FEA3EC2A80E8C900F8D975 /* EventModel.swift */,
+			);
+			path = Model;
 			sourceTree = "<group>";
 		};
 		71D587F42A1FAD7C008FF713 /* Common */ = {
@@ -305,6 +343,49 @@
 				E55B5CC9B3DCDFFD430A1770 /* Pods-Cat Thing.release.xcconfig */,
 			);
 			path = Pods;
+			sourceTree = "<group>";
+		};
+		E00190602BF9F62D00F6D2CC /* StatusMenu */ = {
+			isa = PBXGroup;
+			children = (
+				E00190612BF9F6C700F6D2CC /* StatusMenuViewController.swift */,
+				E00190622BF9F6C700F6D2CC /* StatusMenuViewController.xib */,
+				E0757B002C0096CB001E92AA /* StatusBarNewsCellView.swift */,
+			);
+			path = StatusMenu;
+			sourceTree = "<group>";
+		};
+		E0079E082D1DC4FE00F18522 /* UpdateApp */ = {
+			isa = PBXGroup;
+			children = (
+				E0079E092D1DC51600F18522 /* AppUpdateViewController.swift */,
+			);
+			path = UpdateApp;
+			sourceTree = "<group>";
+		};
+		E011ABB82CFF44AC00C58500 /* Diagnostics */ = {
+			isa = PBXGroup;
+			children = (
+				E011ABB92CFF44CC00C58500 /* DiagnosticsViewController.swift */,
+			);
+			path = Diagnostics;
+			sourceTree = "<group>";
+		};
+		E04CACF72C418700008194FD /* FollowUs */ = {
+			isa = PBXGroup;
+			children = (
+				E04CACF82C418719008194FD /* FollowUsView.swift */,
+				E04CACFC2C41883C008194FD /* FollowUsViewController.swift */,
+			);
+			path = FollowUs;
+			sourceTree = "<group>";
+		};
+		E0757B022C00AE59001E92AA /* Settings */ = {
+			isa = PBXGroup;
+			children = (
+				E0757B032C00AE92001E92AA /* SettingsViewController.swift */,
+			);
+			path = Settings;
 			sourceTree = "<group>";
 		};
 		E076B9042BCA2FF9007B6B65 /* Splash */ = {
@@ -376,9 +457,6 @@
 			children = (
 				2450AE6B263220AB00476919 /* HomeController.swift */,
 				E076B9662BCBA134007B6B65 /* NewsData.swift */,
-				E076B9672BCBA134007B6B65 /* ServerData.swift */,
-				E076B95C2BCB8AB0007B6B65 /* HomeController+VPNConnect.swift */,
-				E076B9642BCB9A04007B6B65 /* HomeController+LoadNews.swift */,
 				E076B96A2BCBA61A007B6B65 /* Cells */,
 			);
 			path = Home;
@@ -388,6 +466,7 @@
 			isa = PBXGroup;
 			children = (
 				E076B95F2BCB9651007B6B65 /* VPNConstants.swift */,
+				E0864EE92BFDA84D00F47464 /* VPNServiceManager.swift */,
 			);
 			path = VPNManager;
 			sourceTree = "<group>";
@@ -532,8 +611,10 @@
 				E076B9102BCA355E007B6B65 /* Localizable.strings in Resources */,
 				2450AE6E263220AC00476919 /* Assets.xcassets in Resources */,
 				2450AE71263220AC00476919 /* Main.storyboard in Resources */,
-				E06344D32BD6497E006A1D78 /* News.json in Resources */,
+				E00190632BF9F6C700F6D2CC /* StatusMenuViewController.xib in Resources */,
 				E076B9572BCAD21F007B6B65 /* MenuBarView.xib in Resources */,
+				E07273D22ED59D66008072B1 /* News.json in Resources */,
+				7155ADE02A1E1B0900CAB741 /* loading.json in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -578,9 +659,13 @@
 			inputFileListPaths = (
 				"${PODS_ROOT}/Target Support Files/Pods-nthLink/Pods-nthLink-frameworks-${CONFIGURATION}-input-files.xcfilelist",
 			);
+			inputPaths = (
+			);
 			name = "[CP] Embed Pods Frameworks";
 			outputFileListPaths = (
 				"${PODS_ROOT}/Target Support Files/Pods-nthLink/Pods-nthLink-frameworks-${CONFIGURATION}-output-files.xcfilelist",
+			);
+			outputPaths = (
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 			shellPath = /bin/sh;
@@ -619,21 +704,27 @@
 				E076B9552BCAD1F5007B6B65 /* MenuBarView.swift in Sources */,
 				E076B9092BCA3154007B6B65 /* Utilities+NSObject.swift in Sources */,
 				E076B9072BCA308A007B6B65 /* NSStoryBoard+Loader.swift in Sources */,
+				E04CACF92C418719008194FD /* FollowUsView.swift in Sources */,
+				E0757B012C0096CB001E92AA /* StatusBarNewsCellView.swift in Sources */,
 				E076B9492BCA3C30007B6B65 /* Utilities+Cacher.swift in Sources */,
 				71BFFAFA2A20B9DE00D06775 /* Function.swift in Sources */,
 				E076B94D2BCA3C30007B6B65 /* Utilities.swift in Sources */,
+				E011ABBA2CFF44CC00C58500 /* DiagnosticsViewController.swift in Sources */,
 				E076B9592BCB795C007B6B65 /* FeedbackServiceManager.swift in Sources */,
 				2450AE6C263220AB00476919 /* HomeController.swift in Sources */,
 				71D6E2E32A29E6E10074B9EA /* NewsCellView.swift in Sources */,
+				E04CACFD2C41883C008194FD /* FollowUsViewController.swift in Sources */,
 				E076B94C2BCA3C30007B6B65 /* AppBaseViewController.swift in Sources */,
-				E076B9692BCBA134007B6B65 /* ServerData.swift in Sources */,
-				E076B9652BCB9A04007B6B65 /* HomeController+LoadNews.swift in Sources */,
-				E076B95D2BCB8AB0007B6B65 /* HomeController+VPNConnect.swift in Sources */,
+				71FEA3ED2A80E8C900F8D975 /* EventModel.swift in Sources */,
 				E076B9612BCB9651007B6B65 /* VPNConstants.swift in Sources */,
+				E0864EEA2BFDA84D00F47464 /* VPNServiceManager.swift in Sources */,
 				E076B9682BCBA134007B6B65 /* NewsData.swift in Sources */,
 				E076B9032BCA2FBC007B6B65 /* Constants.swift in Sources */,
 				719DD96C2A1B604000DB680E /* SplashController.swift in Sources */,
 				E076B9402BCA38D2007B6B65 /* LocalizedStringEnum.swift in Sources */,
+				E00190642BF9F6C700F6D2CC /* StatusMenuViewController.swift in Sources */,
+				E0757B052C00AE92001E92AA /* SettingsViewController.swift in Sources */,
+				719DD9692A1B5F7800DB680E /* MenuButton.swift in Sources */,
 				719DD9712A1BA13300DB680E /* PrivacyController.swift in Sources */,
 				E076B9502BCACD49007B6B65 /* AppConfiguration.swift in Sources */,
 				7155ADDC2A1DF2A800CAB741 /* FeedbackController.swift in Sources */,
@@ -641,6 +732,7 @@
 				719DD96F2A1B999100DB680E /* AboutController.swift in Sources */,
 				715CBFC22A2D946600051C75 /* MyCustomView.swift in Sources */,
 				2450AE6A263220AB00476919 /* AppDelegate.swift in Sources */,
+				E0079E0A2D1DC51600F18522 /* AppUpdateViewController.swift in Sources */,
 				E076B9482BCA3C30007B6B65 /* Utilities+UITextField.swift in Sources */,
 				71C324232A2462A900B7A704 /* Extensions.swift in Sources */,
 			);
@@ -778,7 +870,7 @@
 				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
 				GCC_WARN_UNUSED_FUNCTION = YES;
 				GCC_WARN_UNUSED_VARIABLE = YES;
-				MACOSX_DEPLOYMENT_TARGET = 10.14;
+				MACOSX_DEPLOYMENT_TARGET = 11.0;
 				MTL_ENABLE_DEBUG_INFO = INCLUDE_SOURCE;
 				MTL_FAST_MATH = YES;
 				ONLY_ACTIVE_ARCH = YES;
@@ -835,7 +927,7 @@
 				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
 				GCC_WARN_UNUSED_FUNCTION = YES;
 				GCC_WARN_UNUSED_VARIABLE = YES;
-				MACOSX_DEPLOYMENT_TARGET = 10.14;
+				MACOSX_DEPLOYMENT_TARGET = 11.0;
 				MTL_ENABLE_DEBUG_INFO = NO;
 				MTL_FAST_MATH = YES;
 				SDKROOT = macosx;
@@ -856,7 +948,7 @@
 				CODE_SIGN_IDENTITY = "Apple Development";
 				CODE_SIGN_STYLE = Automatic;
 				COMBINE_HIDPI_IMAGES = YES;
-				CURRENT_PROJECT_VERSION = 41;
+				CURRENT_PROJECT_VERSION = 74;
 				DEAD_CODE_STRIPPING = YES;
 				DEVELOPMENT_TEAM = AKNPAU674J;
 				ENABLE_HARDENED_RUNTIME = NO;
@@ -871,8 +963,8 @@
 					"$(PROJECT_DIR)/CatThing/SDK",
 					"$(PROJECT_DIR)/nthLink/SDK",
 				);
-				MACOSX_DEPLOYMENT_TARGET = 10.14;
-				MARKETING_VERSION = 6.3.3;
+				MACOSX_DEPLOYMENT_TARGET = 11.0;
+				MARKETING_VERSION = 6.8.0;
 				PRODUCT_BUNDLE_IDENTIFIER = com.nthlink.macos.client;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				PROVISIONING_PROFILE_SPECIFIER = "";
@@ -894,7 +986,7 @@
 				CODE_SIGN_IDENTITY = "Apple Development";
 				CODE_SIGN_STYLE = Automatic;
 				COMBINE_HIDPI_IMAGES = YES;
-				CURRENT_PROJECT_VERSION = 41;
+				CURRENT_PROJECT_VERSION = 74;
 				DEAD_CODE_STRIPPING = YES;
 				DEVELOPMENT_TEAM = AKNPAU674J;
 				ENABLE_HARDENED_RUNTIME = NO;
@@ -909,8 +1001,8 @@
 					"$(PROJECT_DIR)/CatThing/SDK",
 					"$(PROJECT_DIR)/nthLink/SDK",
 				);
-				MACOSX_DEPLOYMENT_TARGET = 10.14;
-				MARKETING_VERSION = 6.3.3;
+				MACOSX_DEPLOYMENT_TARGET = 11.0;
+				MARKETING_VERSION = 6.8.0;
 				PRODUCT_BUNDLE_IDENTIFIER = com.nthlink.macos.client;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				PROVISIONING_PROFILE_SPECIFIER = "";
@@ -936,7 +1028,7 @@
 					"@executable_path/../Frameworks",
 					"@executable_path/../../../../Frameworks",
 				);
-				MACOSX_DEPLOYMENT_TARGET = 10.14;
+				MACOSX_DEPLOYMENT_TARGET = 11.0;
 				MARKETING_VERSION = 6.2.6;
 				PRODUCT_BUNDLE_IDENTIFIER = com.nthlink.macos.client.PacketTunnel;
 				PRODUCT_NAME = "$(TARGET_NAME)";
@@ -963,7 +1055,7 @@
 					"@executable_path/../Frameworks",
 					"@executable_path/../../../../Frameworks",
 				);
-				MACOSX_DEPLOYMENT_TARGET = 10.14;
+				MACOSX_DEPLOYMENT_TARGET = 11.0;
 				MARKETING_VERSION = 6.2.6;
 				PRODUCT_BUNDLE_IDENTIFIER = com.nthlink.macos.client.PacketTunnel;
 				PRODUCT_NAME = "$(TARGET_NAME)";

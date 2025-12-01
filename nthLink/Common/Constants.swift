@@ -6,17 +6,21 @@
 //
 
 import Cocoa
+import SwiftUI
 
 var menuButton:NSStatusBarButton = NSStatusBarButton()
 
 struct UserDefaultKeys {
     static let isPrivacyPolicyAccepted = "Accept_privacy"
+    static let showStatusBarMenu = "showStatusBarMenu"
 }
 
 struct AppColors {
     static let appBlueColor: NSColor = NSColor(red: 0.0, green: 97/255, blue: 255/255, alpha: 1)
     static let appCreamColor : NSColor = NSColor(red: 242/255, green: 234/255, blue: 214/255, alpha: 1)
     static let feedbackCellHoverColor = NSColor(red: 72/255, green: 62/255, blue: 163/255, alpha: 1)
+    static let appCreamColor_swiftUI: Color = Color(red: 242 / 255, green: 234 / 255, blue: 214 / 255)
+    static let appBlueColor_swiftUI: Color = Color(red: 0, green: 97 / 255, blue: 255 / 255)
 }
 
 
@@ -27,6 +31,10 @@ struct AssetImagesString {
     static let logoBlue = "logo_blue"
     static let back = "back"
     static let forward = "forward"
+}
+
+struct NotificationName {
+    static let showStatusBarMenu = "showStatusBarMenu"
 }
 
 
@@ -45,6 +53,7 @@ struct BoxNames {
     static let homeBox = "homeBox"
     static let feedbackBox = "feedbackBox"
     static let aboutBox = "aboutBox"
+    static let settingsBox = "settingsBox"
     static let privacyPolicyBox = "privacyPolicyBox"
     static let helpBox = "helpBox"
     static let rateBox = "rateBox"
@@ -53,5 +62,17 @@ struct BoxNames {
     static let btSpeedLow = "btSpeedLow"
     static let btSuggestion = "btSuggestion"
     static let btOther = "btOther"
+    static let followUsBox = "followUsBox"
+    static let diagnosticsBox = "diagnosticsBox"
+    static let updateAppBox = "updateAppBox"
+    
 
+
+}
+
+
+enum ReportEventType:Int {
+    case LandingPageOpen = 1
+    case TopHeadlineWebViewCellOpen = 2
+    case ClickOnNewsHeadline = 3
 }

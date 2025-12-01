@@ -8,68 +8,83 @@
 import Foundation
 import NetworkExtension
 
-var serverConfig = """
-{
-    "log": {
-        "level": "debug"
-    },
-    "dns": {
-        "servers": [
-            "1.1.1.1"
-        ]
-    },
-    "inbounds": [
-        {
-            "protocol": "tun",
-            "tag": "tun",
-            "settings": {
-                "fd": {{TUN-FD}},
-                "fakeDnsExclude": [
-                    "*"
-                ]
-            }
-        }
-    ],
-    "outbounds": [
-        {
-            "protocol": "chain",
-            "tag": "Proxy",
-            "settings": {
-                "actors": [
-                    "tls",
-                    "ws",
-                    "trojan"
-                ]
-            }
-        },
-        {
-            "protocol": "tls",
-            "tag": "tls",
-            "settings": {
-                "insecure": false
-            }
-        },
-        {
-            "protocol": "ws",
-            "tag": "ws",
-            "settings": {
-                "path": "server_path"
-            }
-        },
-        {
-            "protocol": "trojan",
-            "tag": "trojan",
-            "settings": {
-                "address": "server_address",
-                "port": server_port,
-                "password": "server_password"
-            }
-        }
-    ]
-}
+var config = """
+[General]
+dns-server = 1.1.1.1
+loglevel = debug
+always-real-ip = *
+routing-domain-resolve = false
+tun-fd = {{TUN-FD}}
+[Env]
+HTTP_USER_AGENT = nthlink
+[Proxy]
+
 """
 
-var vpnManager = NEVPNManager.shared()
+
+
+//var serverConfig = """
+//{
+//    "log": {
+//        "level": "debug"
+//    },
+//    "dns": {
+//        "servers": [
+//            "1.1.1.1"
+//        ]
+//    },
+//    "inbounds": [
+//        {
+//            "protocol": "tun",
+//            "tag": "tun",
+//            "settings": {
+//                "fd": {{TUN-FD}},
+//                "fakeDnsExclude": [
+//                    "*"
+//                ]
+//            }
+//        }
+//    ],
+//    "outbounds": [
+//        {
+//            "protocol": "chain",
+//            "tag": "Proxy",
+//            "settings": {
+//                "actors": [
+//                    "tls",
+//                    "ws",
+//                    "trojan"
+//                ]
+//            }
+//        },
+//        {
+//            "protocol": "tls",
+//            "tag": "tls",
+//            "settings": {
+//                "insecure": false
+//            }
+//        },
+//        {
+//            "protocol": "ws",
+//            "tag": "ws",
+//            "settings": {
+//                "path": "server_path"
+//            }
+//        },
+//        {
+//            "protocol": "trojan",
+//            "tag": "trojan",
+//            "settings": {
+//                "address": "server_address",
+//                "port": server_port,
+//                "password": "server_password"
+//            }
+//        }
+//    ]
+//}
+//"""
+
+
 let appGroup = "group.com.nthlink.macos.client"
 let configKey = "CONFIG_KEY"
 

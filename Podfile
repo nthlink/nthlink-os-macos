@@ -1,5 +1,5 @@
 # Uncomment the next line to define a global platform for your project
-# platform :ios, '9.0'
+platform :ios, '11.0'
 
 post_install do |installer|
   installer.aggregate_targets.each do |target|

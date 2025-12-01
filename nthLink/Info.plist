@@ -45,5 +45,7 @@
 	<string>NSApplication</string>
 	<key>UILaunchStoryboardName</key>
 	<string>Main.storyboard</string>
+	<key>LSUIElement</key>
+	<false/>
 </dict>
 </plist>

@@ -8,7 +8,7 @@
 
 "Open nthLink" = "Отвори nthLink";
 "Quit nthLink" = "Напусти nthLink";
-"Home" = "Почетна";
+"Home" = "Повежи";
 "Feedback" = "Повратне информације";
 "About" = "О нама";
 "Help" = "Помоћ";
@@ -38,3 +38,35 @@
 "privacyPolicyLearnMoreButton" = "Сазнај више о nthLink";
 "homeReadLatestNews" = "Прочитај последње вести";
 "about_text" = "<p>Ми смо група искусних инжењера за софтвер и безбедност информација који су покренули нтхЛинк 2016. године како би подржали адвокате за људска права који су морали да добију ограничене информације и да изразе своје ставове. Од тада смо услугу учинили доступном широј јавности. Наш развојни тим су стручњаци и за технологију мрежне безбедности и за поузданост услуга.<br>Наша услуга је бесплатна и остаће бесплатна захваљујући нашим спонзорима и партнерима. Су:<br><br>&bull; Open Technology Fund  <br>&bull; Google Jigsaw  <br>&bull; Cure53  <br>&bull; Include Security  <br>&bull; Plaintext Design</p><p>Наш развојни тим се истиче како у софистицираности технологије заобилажења цензуре, тако иу поузданости услуге. Са дугогодишњим искуством у овој специјалној области, корисницима у циљаним географским подручјима пружамо једноставан, безбедан и поуздан приступ иначе цензурисаним информацијама.</p>";
+"menuBarHideText" = "Сакриј";
+"menuBarHideOthersText" = "Сакриј остале";
+"menuBarShowAllext" = "Прикажи све";
+"menuBarQuitText" = "Изађи";
+"statusBarPrivacyAlert" = "Молимо прихватите политику приватности.";
+"statusBarConnectedText" = "Повезано";
+"statusBarNotConnectedText" = "Није повезано";
+"statusBarOpenAppText" = "Отвори апликацију";
+"settingsScreen" = "Подешавања";
+"settingsShowMenuBarText" ="Прикажи апликацију у мени траци";
+"statusBarNewsText" = "Вести";
+"statusBarReloadText" = "поново учитај";
+"telegramIDText" = "Telegram: ";
+"copiedText" = "Kopirano";
+"telegramIdCopiedAlert" = "Molimo vas da nalepite ID na Telegram.";
+"followUsText" = "Пратите нас";
+"visitButtonText" = "Посетите";
+"diagnosticPageTitle" = "Дијагностика";
+"diagnosticsStartButton" = "Покрени дијагностику";
+"diagnosticsDescription" = "На nthLink, понекад тражимо вашу помоћ у унапређењу наших услуга пружањем дијагностичких података.
+
+Кликом на дугме започињете процес дијагностике који прикупља информације и шаље их на наше сервере. Будите сигурни, све прикупљене информације су потпуно анонимне.";
+"diagnosticsSuceessMessage" = "Хвала што нам помажете да се побољшамо! Драго нам је да чујемо ваше мишљење.";
+"diagnosticsInternetError" = "Нестабилна мрежа. Проверите своју интернет везу.";
+"diagnosticsStartDisconnectWarning" = "Покретање дијагностике ће прекинути тренутну везу. Да ли сте сигурни да желите да наставите?";
+"Cancel" = "Откажи";
+"loading" = "учитавање...";
+"UpdateAppMenu" = "Ažuriraj aplikaciju";
+"updateScreenLabel" = "Ažurirajte svoju aplikaciju na najnoviju verziju";
+"updateScreenSubtext" = "Nova verzija aplikacije nthLink je dostupna u App Store-u. Ažurirajte aplikaciju kako biste koristili sve naše neverovatne funkcije.";
+"updateScreenUpdateNowButtonText" = "Ažuriraj sada";
+

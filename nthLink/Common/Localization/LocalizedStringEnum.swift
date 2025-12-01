@@ -21,6 +21,15 @@ enum LocalizedStringEnum:String {
     case Help
     case RateApp
     case PrivacyPolicy
+    case settingsScreen
+    case telegramIDText
+    case copiedText
+    case telegramIdCopiedAlert
+    case followUsText
+    case diagnosticPageTitle
+    case UpdateAppMenu
+
+
 
 
     //About Controller
@@ -45,6 +54,8 @@ enum LocalizedStringEnum:String {
     // General
     case somethingWentWrong
     case OK
+    case Cancel
+    case loading
     
     //HomeViewController
     case Connecting
@@ -56,6 +67,37 @@ enum LocalizedStringEnum:String {
     //privacy policy
     case privacyPolicyAgreeButton
     case privacyPolicyLearnMoreButton
+    
+    //MenuBar
+    case menuBarHideText
+    case menuBarHideOthersText
+    case menuBarShowAllext
+    case menuBarQuitText
+    
+    //StatusBar
+    case statusBarPrivacyAlert
+    case statusBarConnectedText
+    case statusBarNotConnectedText
+    case statusBarOpenAppText
+    case statusBarNewsText
+    case statusBarReloadText
+    
+    //Settings
+    case settingsShowMenuBarText
+    
+    //FollowUs Page
+    case visitButtonText
+    
+    //Diagnostics
+    case diagnosticsStartButton
+    case diagnosticsDescription
+    case diagnosticsSuceessMessage
+    case diagnosticsInternetError
+    case diagnosticsStartDisconnectWarning
+    
+    case updateScreenLabel
+    case updateScreenSubtext
+    case updateScreenUpdateNowButtonText
     
     var localized:String{
         return self.rawValue.localized

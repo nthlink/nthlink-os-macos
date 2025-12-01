@@ -38,7 +38,8 @@ class PacketTunnelProvider: NEPacketTunnelProvider {
             
             // Output logs to the Console.app
             setenv("LOG_CONSOLE_OUT", "true", 1)
-            
+            setenv("ASSET_LOCATION", Bundle.main.resourcePath, 1)
+
             if let config = UserDefaults.init(suiteName: appGroup)?.string(forKey: configKey) {
                 let config = config.replacingOccurrences(of: "{{TUN-FD}}", with: String(self.tunnelFileDescriptor!))
                 DispatchQueue.global(qos: .userInteractive).async {

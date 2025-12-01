@@ -9,7 +9,7 @@
 
 "openNthlinkText" = "Open nthLink";
 "quitNthlinkText" = "Quit nthLink";
-"Home" = "Status";
+"Home" = "Connect";
 "Feedback" = "Feedback";
 "About" = "About";
 "Help" = "Help";
@@ -39,7 +39,34 @@
 "privacyPolicyAgreeButton" = "Accept and continue";
 "privacyPolicyLearnMoreButton" = "Learn more about nthLink";
 "homeReadLatestNews" = "Read Latest News";
+"menuBarHideText" = "Hide";
+"menuBarHideOthersText" = "Hide Others";
+"menuBarShowAllext" = "Show All";
+"menuBarQuitText" = "Quit";
+"statusBarPrivacyAlert" = "Please accept the privacy policy.";
+"statusBarConnectedText" = "Connected";
+"statusBarNotConnectedText" = "Not connected";
+"statusBarOpenAppText" = "Open App";
+"settingsScreen" = "Settings";
+"settingsShowMenuBarText" ="Show application in Menu bar";
+"statusBarNewsText" = "News";
+"statusBarReloadText" = "reload";
+"telegramIDText" = "Telegram: ";
+"copiedText" = "Copied";
+"telegramIdCopiedAlert" = "Please paste ID on Telegram.";
+"followUsText" = "Follow Us";
+"visitButtonText" = "Visit";
+"diagnosticPageTitle" = "Diagnostic";
+"diagnosticsStartButton" = "Start Diagnostics";
+"diagnosticsDescription" = "At nthLink, we occasionally seek your assistance in enhancing our service by providing diagnostic data.
 
-
-
-
+By clicking the button, the diagnostics process begins, collecting information and transmitting it to our servers. Rest assured, all information gathered is completely anonymous.";
+"diagnosticsSuceessMessage" = "Thanks for helping us improve! We love hearing from you.";
+"diagnosticsInternetError" = "Unstable network. Please check your internet connection.";
+"diagnosticsStartDisconnectWarning" = "Starting diagnostics will disconnect the current connection. Are you sure you want to proceed?";
+"Cancel" = "Cancel";
+"loading" = "loading...";
+"UpdateAppMenu" = "Update App";
+"updateScreenLabel" = "Update your application to the latest version";
+"updateScreenSubtext" = "A brand new version of the nthLink app is available in the App Store. Please update your app to use all of our amazing features.";
+"updateScreenUpdateNowButtonText" = "Update Now";

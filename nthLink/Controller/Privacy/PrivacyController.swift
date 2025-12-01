@@ -2,12 +2,11 @@
 //  PrivacyController.swift
 //  nthLink
 //
-//  Created by Vaneet Modgill on 5/22/23.
+//  Created by RuiHua on 5/22/23.
 //
 
 import Cocoa
 
-@available(macOS 11.0, *)
 class PrivacyController: AppBaseViewController {
     @IBOutlet weak private var tfTerms1: NSTextField!
     @IBOutlet weak private var tfTerms2: NSTextField!
@@ -15,7 +14,7 @@ class PrivacyController: AppBaseViewController {
     @IBOutlet weak private var tfTerms4: NSTextField!
     override func viewDidLoad() {
         super.viewDidLoad()
-        preferredContentSize = NSSize(width: 420, height: 550)
+        preferredContentSize = NSSize(width: 630, height: 825)
         self.setupPrivacyTextView()
     }
     
